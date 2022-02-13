@@ -1,2 +1,2 @@
-# AFPsdr
-A peptide structure database of antifungal peptides (AFPsdr) to accelerate the discovery and design of novel therapeutics.
+# CAFPdb
+The consensus antifungal peptide database.
