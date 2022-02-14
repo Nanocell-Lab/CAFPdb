@@ -1,0 +1,1624 @@
+>E07797|Acasin|fungus (Aspergillus clavatus)
++GWSCGFFGGNDEPCHQHCKSIRGYRGGYCKFGGICKCY-
+>E20122|Acipensin 1|Russian sturgeon (Acipenser gueldenstaedtii)
++SGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLRKGNYAQRVGAGAPVY-
+>E20123|Acipensin 2|Russian sturgeon (Acipenser gueldenstaedtii)
++SGRGKTGGKARAKAKTRSSRAGLQFPVGRVHRLLR-
+>E07806|Aclasin-C|fungus (Aspergillus clavatus)
++SICCSFPDPWGGFCCEDHCSYIGKPGGQCSDKKVCTCN-
+>E07807|Aclasin-N|fungus (Aspergillus clavatus)
++LCHNSISCALGGDNVCNNVCVRQGNDNGGRCLPRDGCPGYDICACYPRS-
+>E01379|Adenoregulin|South American two-colored leaf frog (Phyllomedusa bicolor)
++GLWSKIKEVGKEAAKAAAKAAGKAALGAVSEAV-
+>E26063|Adrenocorticotropic hormone [1-13]|bovine (Bos taurus)
++SYSMEHFRWGKPV-
+>E07804|Aflasin-1C|fungus (Aspergillus flavus), fungus (Aspergillus oryzae)
++SISCNFPDPFGGLICENHCAYIGKPGGQCSDQKVCTCN-
+>E07805|Aflasin-1N|fungus (Aspergillus flavus), ungus (Aspergillus oryzae)
++FCHDSISCMVGGDNVCNNVCVRQGNPNGGRCLPRDGCPGNDICACYPQS-
+>E07803|Aflasin-2|fungus (Aspergillus fumigatus)
++SSCQLGDVWDLNAADAACSASCAIQHGDKHGGHCDKNKVCVCN-
+>E07808|Afusin-C|fungus (Aspergillus fumigatus)
++SICCSFPDPWGGLCCEDHCSYIGKPGGQCSDKGVCTCN-
+>E07809|Afusin-N|fungus (Aspergillus fumigatus)
++FCHNSISCMMGGDSTCNNVCVRQGNPNGGRCLPRDGCPGYDICACYPNN-
+>E00476|alpha-Calcitonin gene-related peptide|human (Homo sapiens)
++ACDTATCVTHRLAGLLSRSGGVVKNNFVPTNVGSKAFz
+>E12068|Alyteserin-2Ma|midwife toad (Alytes maurus)
++FIGKLISAASGLLSHLz
+>E12070|Alyteserin-2Mb|midwife toad (Alytes maurus)
++ILGAIIPLVSGLLSHLz
+>E19878|Andricin B|Chinese giant salamander (Andrias davidianus)
++GLTRLFSVIK-
+>E07801|Anisin-1|fungus (Aspergillus nidulans)
++SSCQLGGIFGAGDAACSASCIRAGTYHGGYCNDKQVCICTH-
+>E07802|Anisin-2|fungus (Aspergillus nidulans)
++ASCQIGDIWGAGDAACSASCLKDGTYHGGYCNEESVCVCTY-
+>E23590|Antibiotic peptide Malformin E|fungus (Aspergillus tamarii)
+LVICC
+>E04808|Antifungal cyclic dipeptide|bacterium (Lactobacillus plantarum)
+FP
+>E23137|Antifungal defensin|peanut (Arachis diogoi)
++KTCENLADKYRGPCFSGCDTHCTTKEHAVSGRCRDDFRCWCTKRC-
+>E25047|Antifungal peptide  AFP-J|potato (Solanum tuberosum)
++AVCENDLNCC-
+>E04251|Antifungal peptide|alfalfa (Medicago sativa)
++RTCENLADKYRGPCFSGCDTHCTTKENAYSGRCRDDFRCWCTKRC-
+>E03816|Antifungal peptide|red bean (Adzuckia angularia)
++RTCENLANTYRGPCI-
+>E03817|Antifungal peptide|kidney bean (Phaseolus vulgaris)
++KTCENLADTYKGPCFT-
+>E24843|Antifungal peptide 1|bacterium: Lactobacillus plantarum
++SGADTTFLTK-
+>E25048|Antifungal peptide 1|rice (Oryza sativa)
++SAFEFADEHKGAYS-
+>E11611|Antifungal peptide 1|water chestnut (Trapa natans)
++LMCTHPLDCSN-
+>E24844|Antifungal peptide 2|bacterium: Lactobacillus plantarum
++LVGKKVQTF-
+>E25049|Antifungal peptide 2|rice (Oryza sativa)
++AAIIFGSIFWNVGMKR-
+>E24845|Antifungal peptide 3|bacterium: Lactobacillus plantarum
++GTLIGQDYK-
+>E25050|Antifungal peptide 3|rice (Oryza sativa)
++AEGEVILEDVQPSSVQS-
+>E25051|Antifungal peptide 4|rice (Oryza sativa)
++PPDVLTKLTAVPAAQQLDEADGHPR-
+>E10230|Antifungal peptide AMP3|grape (Vitis vinifera) *
++KTCESQSHRFKGTCVRHSNCAAVCQTEGFHGGNCRGFRRRCFCTKHC-
+>E10231|Antifungal peptide AMP4|grape (Vitis vinifera) *
++RTCDSQSHRFKGTCVTHINCAAVCHTDGFHGRNCRGFRRPCFCTKHC-
+>E03006|Antifungal peptide AX1|sugar beet (Beta vulgaris)
++AICKKPSKFFKGACGRDADCEKACDQENWPGGVCVPFLRCECQRSC-
+>E03007|Antifungal peptide AX2|sugar beet (Beta vulgaris)
++ATCRKPSMYFSGACFSDTNCQKACNREDWPNGKCLVGFKCECQRPC-
+>E04115|Antifungal peptide EAFP1|gutta-percha tree / Hardy rubber tree (Eucommia ulmoides)
+JTCASRCPRPCNAGLCCSIYGYCGSGNAYCGAGNCRCQCRG-
+>E04116|Antifungal peptide EAFP2|gutta-percha tree / Hardy rubber tree (Eucommia ulmoides)
+JTCASRCPRPCNAGLCCSIYGYCGSGAAYCGAGNCRCQCRG-
+>E20818|Antifungal peptide Hc-AFP1|blue flax (Heliophila coronopifolia)
++RYCERSSGTWSGVCGNSGKCSNQCQRLEGAAHGSCNYVFPAHKCICYYPC-
+>E20819|Antifungal peptide Hc-AFP2|blue flax (Heliophila coronopifolia)
++QKLCERPSGTWSGVCGNNNACRNQCINLEKARHGSCNYVFPAHKCICYFPC-
+>E20820|Antifungal peptide Hc-AFP3|blue flax (Heliophila coronopifolia)
++RYCERSSGTWSGVCGNTDKCSSQCQRLEGAAHGSCNYVFPAHKCICYYPC-
+>E20821|Antifungal peptide Hc-AFP4|blue flax (Heliophila coronopifolia)
++QKLCERPSGTWSGVCGNNGACRNQCIRLERARHGSCNYVFPAHKCICYFPC-
+>E02407|Antifungal peptide PAFP-s|Virginian pokeweed / common pokeberry (Phytolacca americana)
++AGCIKNGGRCNASAGPPYCCSSYCFQIAGQSYGVCKNR-
+>E03437|Antifungal peptide PN-AMP1|Japanese morning glory (Pharbitis nil (violet))
+JQCGRQASGRLCGNRLCCSQWGYCGSTASYCGAGCQSQCRS-
+>E03438|Antifungal peptide PN-AMP2|Japanese morning glory (Pharbitis nil (violet))
+JQCGRQASGRLCGNRLCCSQWGYCGSTASYCGAGCQSQCR-
+>E06092|Antifungal peptide pnAMP-h1|Japanese morning glory (Pharabitus nil)
+JQCGSQARGRLCGNGLCCSQWGYCGSTAAYCGAGCQSQCKS-
+>E06093|Antifungal peptide pnAMP-h2|Japanese morning glory (Pharabitus nil)
+JQCGRQASGRLCGNGLCCSQWGYCGSTAAYCGAGCQSQCKS-
+>E24697|Antifungal peptide SBF-3-1p|big head croaker (Collichthys lucidus)
++TFNTPAMYVAIQAVLSLYASGR-
+>E07214|Antifungal peptide Vv-AMP1|grape (Vitis vinifera)
++RTCESQSHRFKGTCVRQSNCAAVCQTEGFHGGNCRGFRRRCFCTKHC-
+>E05337|Antifungal peptide, Ascalin|shallot (Allium ascalonicum)
++YQCGQGG-
+>E05134|Antifungal peptide, Cucrmoschin|black pumpkin (Cucurbita moschata)
++PQRGEGGRAGNLLREEQEI-
+>E02764|Antifungal peptide, Drosomycin|fruit fly (Drosophila)
++DCLSGRYKGPCAVWDNETCRRVCKEEGRSSGHCSPSLKCWCEGC-
+>E02429|Antifungal peptide, Heliomicin|tobacco budworm / noctiud moth / owlet moth (Heliothis virescens)
++DKLIGSCVWGAVNYTSDCNGECKRRGYKGGHCGSFANVNCWCET-
+>E04600|Antifungla peptide, Spodomicin|Egyptian cotton leafworm (Spodoptera littoralis)
++VHVGPCDQVCSRIDPEKDECCRAHGYRGHSSCYYGRMECY-
+>E04322|Antimicribial pepide 1|common ice plant (Mesenbryanthemum crystallinum)
++AKCIKNGKGCREDQGPPFCCSGFCYRQVGWARGYCKNR-
+>E15345|Antimicrobial peptide|Atlantic hagfish (Myxine glutinosa)
++GIHDILKYGKPS-
+>E07623|Antimicrobial peptide|sciarid fly (Bradysia hygida)
++CIPDGGRCHESDPGPGCCSGFCYRERNWKDGDCRKRP-
+>E07207|Antimicrobial peptide 1|grape (Vitis vinifera)
++EQCGGQAGGRVCPGGACCSKFGWCGNTADYCGSGCQSQCSS-
+>E07220|Antimicrobial peptide 10|grape (Vitis vinifera)
+JQCGRQASGKRCAGGLCCSQYGYCGSTRPYCGVGCQSQCR-
+>E04185|Antimicrobial peptide 14, Ranatuerin-2ARb|crawfish frog (Rana areolata)
++GILDTIKNAAKTVAVGLLEKIKCKMTGC-
+>E09066|Antimicrobial peptide 1a|wheat (Triticum kiharae)
++AQRCGDQARGAKCPNCLCCGKYGFCGSGDAYCGAGSCQSQCRGC-
+>E09067|Antimicrobial peptide 1b|wheat (Triticum kiharae)
++AQRCGDQARGAKCPNCLCCGKYGFCGSGDAYCGAGSCQSQCRGCR-
+>E07208|Antimicrobial peptide 2|grape (Vitis vinifera)
++EQCGRQAGGALCSGGLCCSQYGYCGSTSAYCSTGCQSQCPC-
+>E07210|Antimicrobial peptide 3|grape (Vitis vinifera)
++EQCGRQAGGALCSGGLCCSQYGYCGSTSAYCSTGCQSQCPS-
+>E07211|Antimicrobial peptide 4|grape (Vitis vinifera)
++EQCGGQAGGRVCPGGACCSKFGRCGNTADYCGSGCQSQCSS-
+>E07213|Antimicrobial peptide 5|grape (Vitis vinifera)
++KVCQRPSKTWSGFCGSSKNCDRQCKNWEGAKHGACHAKFPGVACFCYFNC-
+>E07215|Antimicrobial peptide 6|grape (Vitis vinifera)
++RLCESQSHWFRGVCVSNHNCAVVCRNEHFVGGRCRGFRRRCFCTRNC-
+>E07216|Antimicrobial peptide 7|grape (Vitis vinifera)
++RVCESQSHKFEGACMGDHNCALVCRNEGFSGGKCKGLRRRCFCTKLC-
+>E07217|Antimicrobial peptide 8|grape (Vitis vinifera)
+JQCGRQAGGRTCANNLCCSQYGYCGTTAEYCSPSQSCQSNCQSGG-
+>E07218|Antimicrobial peptide 9|grape (Vitis vinifera)
++EQCGSLAGGALCSGGLCCSQYGYCGSTPAYCSTGCQSQCTS-
+>E20129|Antimicrobial peptide AaeAP1|North African scorpion (Androctonus aeneas)
++FLFSLIPSVIAGLVSAIRNz
+>E20130|Antimicrobial peptide AaeAP2|North African scorpion (Androctonus aeneas)
++FLFSLIPSAIAGLVSAIRNz
+>E12007|Antimicrobial peptide AamAP1|North African fattail scorpion (Androctonus amoreuxi)
++FLFSLIPHAIGGLISAFKz
+>E12008|Antimicrobial peptide AamAP2|North African fattail scorpion (Androctonus amoreuxi)
++FPFSLIPHAIGGLISAIKz
+>E03986|Antimicrobial peptide Ac-AMP1|amaranth inca-wheat (Amaranthus caudatus), prince-of-Wales feather (Amaranthus hypochondriacus)
++VGECVRGRCPSGMCCSQFGYCGKGPKYCG-
+>E03985|Antimicrobial peptide Ac-AMP2|amaranth inca-wheat (Amaranthus caudatus), prince-of-Wales feather (Amaranthus hypochondriacus)
++VGECVRGRCPSGMCCSQFGYCGKGPKYCGR-
+>E23119|Antimicrobial peptide AcrAP1|Arabian fat-tailed scorpion (Androctonus crassicauda)
++FLFSLIPHAISGLISAFKz
+>E23118|Antimicrobial peptide AcrAP2|Arabian fat-tailed scorpion (Androctonus crassicauda)
++FLFSLIPNAISGLLSAFKz
+>E04844|Antimicrobial peptide Alo-1|giant harlequin beetle (Acrocinus longimatus)
++CIKNGNGCQPDGSQGNCCSRYCHKEPGWVAGYCR-
+>E04845|Antimicrobial peptide Alo-2|giant harlequin beetle (Acrocinus longimatus)
++CIANRNGCQPDGSQGNCCSGYCHKEPGWVAGYCR-
+>E04846|Antimicrobial peptide Alo-3|giant harlequin beetle (Acrocinus longimatus)
++CIKNGNGCQPNGSQGNCCSGYCHKQPGWVAGYCRRK-
+>E20131|Antimicrobial peptide ARACIN1|mouse-ear cress (Arabidopsis thaliana)
++GSCGASIAEFNSSQILAKRAPPCRRPRLQNSEDVTHTTLP-
+>E20132|Antimicrobial peptide ARACIN2|mouse-ear cress (Arabidopsis thaliana)
++GSCGAPISKYDFQVLAKRPPPCRRPRLENTEDVTHTTRP-
+>E24632|Antimicrobial peptide AsR117|garlic (Allium sativum)
++YMYRVCVSLFNGMDHIAVMYVYVCLHKGMDSSLL-
+>E24641|Antimicrobial peptide AsR174|garlic (Allium sativum)
++NYIFPRIRTCYYL-
+>E24636|Antimicrobial peptide AsR36|garlic (Allium sativum)
++FLLFISCCFSKKLEKWCN-
+>E24634|Antimicrobial peptide AsR379|garlic (Allium sativum)
++KYSNVLELCHVISWVIIYCP-
+>E24637|Antimicrobial peptide AsR412|garlic (Allium sativum)
++YNNIELCLRNNFIKRHF-
+>E24633|Antimicrobial peptide AsR416|garlic (Allium sativum)
++YVLLLLIACFGMNCLLWNRQRVSDIGGWGSVTSL-
+>E24640|Antimicrobial peptide AsR453|garlic (Allium sativum)
++IVIVCSESEGINIRCRRT-
+>E24642|Antimicrobial peptide AsR498|garlic (Allium sativum)
++NNELYMFVAT-
+>E24635|Antimicrobial peptide AsR845|garlic (Allium sativum)
++FTFCFLSFLCDGEFHLCYKMYHIAQ-
+>E24638|Antimicrobial peptide AsR853|garlic (Allium sativum)
++SNCWNNDIFSLLI-
+>E24639|Antimicrobial peptide AsR864|garlic (Allium sativum)
++YLEFLDLDCTKILDDA-
+>E19969|Antimicrobial peptide Balteatide|purple-sided leaf frog (Phyllomedusa baltea)
++LRPAILVRIKz
+>E19770|Antimicrobial peptide Brevinin-2MS1|Asian frog (Hylarana maosuoensis)
++SFLDKFKDVAIGVAKGAGTGVLKALLCKLDNSC-
+>E20516|Antimicrobial peptide Ci-MAM-A24|tunicate (Ciona intestinalis)
++WRSLGRTLLRLSHALKPLARRSGW-
+>E19628|Antimicrobial peptide Con-10|South American scorpion (Opisthacanthus cayaporum)
++FWSFLVKAASKILPSLIGGGDDNKSSS-
+>E23079|Antimicrobial peptide Con22|Inland robust scorpion (Urodacus yaschenkoi)
++GIWSWIKKTAKKVWNSDVAKKLKGKALNVAKDFVAEKIGATPA-
+>E20597|Antimicrobial peptide Coprisin|dung beetle (Copris tripartitus)
++VTCDVLSFEAKGIAVNHSACALHCIALRKKGGSCQNGVCVCRN-
+>E20296|Antimicrobial peptide CPF-St4|Western clawed frog (Silurana tropicalis)
++SLFGTFAKMALKGASKLIPHLLPSRQQ-
+>E20297|Antimicrobial peptide CPF-St5|Western clawed frog (Silurana tropicalis)
++GVFGLLAKAALKGASKLIPHLLPSRQQ-
+>E20298|Antimicrobial peptide CPF-St6|Western clawed frog (Silurana tropicalis)
++KLGFENFLVKALKTVMHVPTSPLLz
+>E20808|Antimicrobial peptide Ctriporin|South-East Asian scorpion (Chaerilus tricostatus)
++FLWGLIPGAISAVTSLIKKz
+>E11393|Antimicrobial peptide EcAMP1|barnyard grass (Echinochloa crus-galli / Panicum crus-galli)
++GSGRGSCRSQCMRRHEDEPWRVQECVSQCRRRRGGGD-
+>E11998|Antimicrobial peptide EP-19|bacterium: Xenorhabdus budapestensis NMC-10
++GPVGLLSSPGSLPPVGGAP-
+>E11997|Antimicrobial peptide EP-20|bacterium: Xenorhabdus budapestensis NMC-10
++EGPVGLADPDGPASAPLGAP-
+>E20471|Antimicrobial peptide EP2|earthworm / common dung-worm / common brandling worm (Eisenia foetida)
+bAMVSS-
+>E20472|Antimicrobial peptide EP3|earthworm / common dung-worm / common brandling worm (Eisenia foetida)
+bAMVGT-
+>E19432|Antimicrobial peptide Es-Termicin|cockroach (Eupolyphaga sinensis)
++ACDFQQCWVTCQRQYSINFISARCNGDSCVCTFRT-
+>E11813|Antimicrobial peptide HsAp1|Malaysian black scorpion (Heterometrus spinifer)
++SGTSEKERESGRLLGVVKRLIVCFRSPFP-
+>E11814|Antimicrobial peptide HsAp2|Malaysian black scorpion (Heterometrus spinifer)
++SGTSEKERESERLLGVVNPLIKCFRSPCP-
+>E11815|Antimicrobial peptide HsAp3|Malaysian black scorpion (Heterometrus spinifer)
++SGTPEKERESGRLLGVVKRYIVCVRNPCP-
+>E11816|Antimicrobial peptide HsAp4|Malaysian black scorpion (Heterometrus spinifer)
++SGTSEKERESGRLLGVVKRLIVGFRSPFR-
+>E02313|Antimicrobial peptide Ib-AMP1|garden balsam (Impatiens balsamina)
++QWGRRCCGWGPGRRYCVRWC-
+>E02314|Antimicrobial peptide Ib-AMP2|garden balsam (Impatiens balsamina)
++QYGRRCCNWGPGRRYCKRWC-
+>E02315|Antimicrobial peptide Ib-AMP3|garden balsam (Impatiens balsamina)
++QYRHRCCAWGPGRKYCKRWC-
+>E02316|Antimicrobial peptide Ib-AMP4|garden balsam (Impatiens balsamina)
++QWGRRCCGWGPGRRYCRRWC-
+>E19500|Antimicrobial peptide ISGCock_Contig04_0915|American cockroach (Periplaneta americana)
++GTFIKQQRKQKQQRHHTSGTRKRMAKz
+>E19521|Antimicrobial peptide ISGCock_Contig05_0593|American cockroach (Periplaneta americana)
++MKTFLRLYRSLINKVLH-
+>E19514|Antimicrobial peptide ISGCock_Contig07_3736-2|American cockroach (Periplaneta americana)
++GCHRMNKCVFSS-
+>E19522|Antimicrobial peptide ISGCock_Contig12_4176|American cockroach (Periplaneta americana)
++VGRKHSILNCIPYLKKKKIMRL-
+>E19520|Antimicrobial peptide ISGCock_Contig13_3006|American cockroach (Periplaneta americana)
++LRHKVYGYCVLGP-
+>E19523|Antimicrobial peptide ISGCock_Contig15_1337-1|American cockroach (Periplaneta americana)
++RMKLNAKKLSFC-
+>E19524|Antimicrobial peptide ISGCock_Contig15_1337-2|American cockroach (Periplaneta americana)
++HNSSKQWSHWLWHNGIRI-
+>E19509|Antimicrobial peptide ISGCock_Contig16_2060|American cockroach (Periplaneta americana)
++ASITHVKNRGKYIYMHLKFRKTNVL-
+>E19512|Antimicrobial peptide ISGCock_Contig16_4974|American cockroach (Periplaneta americana)
++KKVWFIFHVCPKLKQRIL-
+>E19630|Antimicrobial peptide Longipin|Acutisoma longipes (Neotropical harvestman)
++SGYLPGKEYVYKYKGKVF-
+>E01390|Antimicrobial peptide MBP-1|maize (Zea mays)
++RSGRGECRRQCLRRHEGQPWETQECMRRCRRRG-
+>E02405|Antimicrobial peptide Mj-AMP1|garden four-o'clock (Mirabilis jalapa)
+JCIGNGGRCNENVGPPYCCSGFCLRQPGQGYPYCKNR-
+>E02406|Antimicrobial peptide Mj-AMP2|garden four-o'clock (Mirabilis jalapa)
++CIGNGGRCNENVGPPYCCSGFCLRQPNQGYGVCRNR-
+>E15349|Antimicrobial peptide OsDEF7|rice (Oryza sativa)
++RHCLSQSHRFKGMCVSSNNCANVCRTESFPDGECKSHGLERKCFCKKVC-
+>E15350|Antimicrobial peptide OsDEF8|rice (Oryza sativa)
++RTCESQSHRFKGPCARKANCASVCNTEGFPDGYCHGVRRRCMCTKPCP-
+>E19442|Antimicrobial peptide Osm-pepA|cocoa (Theobroma cacao)
++RRLDRGGVWNLNVNPGTTGARVWARTKz
+>E19443|Antimicrobial peptide Osm-pepB|cocoa (Theobroma cacao)
++GGVWNLNVNPGTTGARVWARTKz
+>E20795|Antimicrobial peptide P1|Sitka spruce (Picea sitchensis,)
++KSLRPRCWIKIKFRCKSLKF-
+>E09070|Antimicrobial peptide p2|Scots pine (Pinus sylvestris)
++RMCKTPSGKFKGYCVNNTNCKNVCRTEGFPTGSCDFHVAGRKCYCYKPCP-
+>E20796|Antimicrobial peptide P2|Sitka spruce (Picea sitchensis,)
++RPRCWIKIKFRCKSLKF-
+>E20305|Antimicrobial peptide PFQa-St2|Western clawed frog (Silurana tropicalis)
++FIGALLRPALKLLAGK-
+>E20306|Antimicrobial peptide PGLa-St2|Western clawed frog (Silurana tropicalis)
++GMATKAGTAFGKAAKAIIGAALz
+>E19874|Antimicrobial peptide Phylloseptin-PC|South American frog (Phyllomedusa camba)
++FLSLIPKIATGIAALAKHLz
+>E19783|Antimicrobial peptide Piscidin ecPis-2-L|orange-spotted grouper (Epinephelus coioides)
++FFFHIIKGLFHAGRMIHGLVNRRRHRHGMEELDLDQRAFEREKAFA-
+>E19784|Antimicrobial peptide Piscidin ecPis-3|orange-spotted grouper (Epinephelus coioides)
++IFGLLLHGAIHVGKLIHGLVRRH-
+>E19786|Antimicrobial peptide Piscidin ecPis-4|orange-spotted grouper (Epinephelus coioides)
++FFRHIKSFWKGAKAIFRGARQG-
+>E19782|Antimicrobial peptide Pistidin ecPis-2|orange-spotted grouper (Epinephelus coioides)
++FFFHIIKGLFHAGRMIHGLV-
+>E20256|Antimicrobial peptide PNG-1|solitary bee (Panurgus calcaratus)
++LNWGAILKHIIKz
+>E20257|Antimicrobial peptide PNG-K|solitary bee (Panurgus calcaratus)
++LDVKKIICVACKIKPNPACKKICPK-
+>E20258|Antimicrobial peptide PNG-R|solitary bee (Panurgus calcaratus)
++LDVKKIICVACKIRPNPACKKICPK-
+>E20337|Antimicrobial peptide Ps-AFP1|garden pea (Pisum sativum)
++RQLKSSRRGALVCVRLKLCSAILSRGLSCGMFSCNARR-
+>E24306|Antimicrobial peptide RBP-EKL|rice (Oryza sativa)
++EKLLGKQDKGVIIRA-
+>E24305|Antimicrobial peptide RBP-LRR|rice (Oryza sativa)
++LRRHASEGGHGPHW-
+>E24307|Antimicrobial peptide RBP-SSF|rice (Oryza sativa)
++SSFSKGVQRAAF-
+>E10451|Antimicrobial peptide scolopin-1|Chinese red-headed centipede (Scolopendra subspinipes mutilans)
++FLPKMSTKLRVPYRRGTKDYH-
+>E10452|Antimicrobial peptide scolopin-2|Chinese red-headed centipede (Scolopendra subspinipes mutilans)
++GILKKFMLHRGTKVYKMRTLSKRSH-
+>E10334|Antimicrobial peptide Shuchin 1|gland-shanked pond frog (Rana shuchinae)
++NALSMPRNKCNRALMCFG-
+>E10335|Antimicrobial peptide Shuchin 2|gland-shanked pond frog (Rana shuchinae)
++NALSSPRNKCDRASSCFG-
+>E20109|Antimicrobial peptide SJGAP|Skipjack tuna (Katsuwonus pelamis)
++VKVGINGFGRIGRLVTRAAFHGKKVEIVAIND-
+>E20797|Antimicrobial peptide SmAMP1|common chickweed (Stellaria media)
++KICERASGTWKGICIHSNDCNNQCVKWENAGSGSCHYQFPNYMCFCYFDC-
+>E20798|Antimicrobial peptide SmAMP2|common chickweed (Stellaria media)
++KICERASGTWKGICIHSNDCNNQCVKWENAGSGSCHYQFPNYMCFCYFNC-
+>E20174|Antimicrobial peptide SmAMP3|common chickweed (Stellaria media)
++VGPGGECGGRFGGCAGGQCCSRFGFCGSGPKYCAH-
+>E20331|Antimicrobial peptide Tk-AMP-X1|wheat (Triticum kiharae)
++TDDRCERMCQHYHDRREKKQCMKGCRYGESD-
+>E20332|Antimicrobial peptide Tk-AMP-X2|wheat (Triticum kiharae)
++ADDRCERMCQRYHDRREKKQCMKGCRYG-
+>E12040|antimicrobial peptide ToAMP1|common dandelion (Taraxacum officinale)
++VAKCTEESGGKYFVFCCYKPTRICYMNEQKCESTCIGK-
+>E12041|antimicrobial peptide ToAMP2|common dandelion (Taraxacum officinale)
++GGKCTVDWGGQGGGRRLPSPLFCCYKPTRICYLNQETCETETCP-
+>E12042|antimicrobial peptide ToAMP3|common dandelion (Taraxacum officinale)
++ANKCIIDCMKVKTTCGDECKGAGFKTGGCALPPDIMKCCHNC-
+>E20274|Antimicrobial peptide ToAMP4|common dandelion (Taraxacum officinale)
++GYGDGCYSEDDLSVCCKKKFKVIGKCFKSVRECQNSGCKYH-
+>E19624|Antimicrobial peptide ToAp1|Amazonian scorpion (Tityus obscurus)
++FIGMIPGLIGGLISAFKz
+>E19625|Antimicrobial peptide ToAp2|Amazonian scorpion (Tityus obscurus)
++FFGTLFKLGSKLIPGVMKLFSKKKER-
+>E19626|Antimicrobial peptide ToAp3|Amazonian scorpion (Tityus obscurus), Lesser brown scorpion (Isometrus maculatus)
++FIGMIPGLIGGLISAIKz
+>E19627|Antimicrobial peptide TsAP-2|Brasilian scorpion (Tityus serrulatus)
++FLGMIPGLIGGLISAFKz
+>E07842|Antimicrobial peptide VESP-V1|Hong Kong wasp (Vespa bivolor)
++FMPIIGRLMSGSLz
+>E07843|Antimicrobial peptide VESP-V2|Hong Kong wasp (Vespa bivolor)
++FMPISGMLMSGMLz
+>E14408|Antimicrobial peptide VpAmp1.0|Mexican scorpion (Vaejovis punctatus)
++LPFFLLSLIPSAISAIKKIz
+>E14409|Antimicrobial peptide VpAmp2.0|Mexican scorpion (Vaejovis punctatus)
++FWGFLGKLAMKAVPSLIGGNKSSSK-
+>E23122|Antimicrobial peptide X|common chickweed (Stellaria media)
++VDPDVRAYCKHQCMSTRGDQARKICESVCMRQD-
+>E19728|Antimicrobial peptide XLAsp-P2|African clawed frog (Xenopus laevis)
++DEDLDE-
+>E20300|Antimicrobial peptide XPF-St4|Western clawed frog (Silurana tropicalis)
++GWASSIGSILGKFAKGGAQAFLQPK-
+>E20301|Antimicrobial peptide XPF-St5|Western clawed frog (Silurana tropicalis)
++GWLPTFGKILRKAMQLGPKLIQPI-
+>E20302|Antimicrobial peptide XPF-St6|Western clawed frog (Silurana tropicalis)
++GVWSTILGGLKKFAKGGLDAIVNPK-
+>E20303|Antimicrobial peptide XPF-St7|Western clawed frog (Silurana tropicalis)
++GLLSNVAGLLKQFAKGGVNAVLNPK-
+>E20304|Antimicrobial peptide XPF-St8|Western clawed frog (Silurana tropicalis)
++GFMSKVANFAKKFAKGGVNAIMNQK-
+>E06103|Antimicrobial peptide, Ar-AMP|redroot amaranth / redroot pigweed (Amaranthus retroflexus)
++AGECVQGRCPSGMCCSQFGYCGRGPKYCGR-
+>E05555|Antimicrobial peptide, Arenicin-1|rock worm / lugworm (Arenicola marina)
++RWCVYAYVRVRGVLVRYRRCW-
+>E05556|Antimicrobial peptide, Arenicin-2|rock worm / lugworm (Arenicola marina)
++RWCVYAYVRIRGVLVRYRRCW-
+>E07360|Antimicrobial peptide, CyAMP1|sago palm (Cycas revoluta)
++KGAPCAKKPCCGPLGHYKVDCSTIPDYPCCSKYGFCGSGPQYCG-
+>E07361|Antimicrobial peptide, CyAMP2|sago palm (Cycas revoluta)
++KGGPCAKKPCCGPLGHYKVDCSTIPDYPCCSKYGFCGSGPQYCG-
+>E05939|Antimicrobial peptide, Dolabellanin B2|sea hare (Dolabella auricularia)
++SHQDCYEALHKCMASHSKPFSCSMKFHMCLQQQ-
+>E05770|Antimicrobial peptide, Fa-AMP 1|buckwheat (Fagopyrum esculentum)
++AQCGAQGGGATCPGGLCCSQWGWCGSTPKYCGAGCQSNCK-
+>E05771|Antimicrobial peptide, Fa-AMP 2|buckwheat (Fagopyrum esculentum)
++AQCGAQGGGATCPGGLCCSQWGWCGSTPKYCGAGCQSNCR-
+>E05988|Antimicrobial peptide, Fallaxin|mountain chicken frog (Leptodactylus fallax / Leptodactylus dominicensis), labyrinth frog (Leptodactylus labyrinthicus)
++GVVDILKGAAKDIAGHLASKVMNKLz
+>E01503|Antimicrobial peptide, Gaegurin 1|Korean wrinkled frog (Rana rugosa)
++SLFSLIKAGAKFLGKNLLKQGACYAACKASKQC-
+>E01504|Antimicrobial peptide, Gaegurin 2|Korean wrinkled frog (Rana rugosa)
++GIMSIVKDVAKNAAKEAAKGALSTLSCKLAKTC-
+>E01505|Antimicrobial peptide, Gaegurin 3|Korean wrinkled frog (Rana rugosa)
++GIMSIVKDVAKTAAKEAAKGALSTLSCKLAKTC-
+>E01509|Antimicrobial peptide, Gaegurin 4 [K35]|Korean wrinkled frog (Rana rugosa)
++GILDTLKQFAKGVGKDLVKGAAQGVLSTLSCKLAKTC-
+>E01506|Antimicrobial peptide, Gaegurin 4 [L35]|Korean wrinkled frog (Rana rugosa)
++GILDTLKQFAKGVGKDLVKGAAQGVLSTLSCKLALTC-
+>E01510|Antimicrobial peptide, Gaegurin 5 [F17]|Korean wrinkled frog (Rana rugosa)
++FLGALFKVASKVLPSVFCAITKKC-
+>E01507|Antimicrobial peptide, Gaegurin 5 [K17]|Korean wrinkled frog (Rana rugosa)
++FLGALFKVASKVLPSVKCAITKKC-
+>E01508|Antimicrobial peptide, Gaegurin 6|Korean wrinkled frog (Rana rugosa)
++FLPLLAGLAANFLPTIICKISYKC-
+>E02586|Antimicrobial peptide, Gomesin|tarantula spider (Acanthoscurria gomesiana)
+JCRRLCYKQRCVTYCRGRz
+>E06021|Antimicrobial peptide, Grahamin 1|Yunnanfu frog (Rana grahami / Huia grahami)
++GLLSGILGAGKNIVCGLSGLC-
+>E06022|Antimicrobial peptide, Grahamin 2|Yunnanfu frog (Rana grahami / Huia grahami)
++GLLSGILGAGKHIVCGLSGLC-
+>E05702|Antimicrobial peptide, Hylaseptin P1|polka-dot treefrog / spotted treefrog (Hyla punctata)
++GILDAIKAIAKAAG-
+>E05999|Antimicrobial peptide, Ixosin|hard tick (Ixodes sinensis)
++GLHKVMREVLGYERNSYKKFFLR-
+>E02749|Antimicrobial peptide, Kassinatuerin-1|Senegal running frog (Kassina senegalensis)
++GFMKYIGPLIPHAVKAISDLIz
+>E22931|Antimicrobial peptide, Oligoventin|Brazilian armed spider (Phoneutria nigriventer)
++QPFSLERW-
+>E04427|Antimicrobial peptide, Opistoporin 1|African yellow leg scorpion (Opistophthalmus carinatus)
++GKVWDWIKSTAKKLWNSEPVKELKNTALNAAKNLVAEKIGATPS-
+>E02317|Antimicrobial peptide, Panaeidin 1|European white shrimp (Penaeus vannamei)
++YRGGYTGPIPRPPPIGRPPLRLVVCACYRLSVSDARNCCIKFGSCCHLVK-
+>E02318|Antimicrobial peptide, Panaeidin 2|European white shrimp (Penaeus vannamei)
++YRGGYTGPIPRPPPIGRPPFRPVCNACYRLSVSDARNCCIKFGSCCHLVKz
+>E05548|Antimicrobial peptide, Panaeidin-2b|European white shrimp (Penaeus vannamei)
++YRGGYTGPIPRPPPIGRPPLRPVCNACYRLSVSDARNCCIKFCSCCHLVKz
+>E05546|Antimicrobial peptide, Panaeidin-2d|Atlantic white shrimp (Litopenaeus setiferus)
+JRGGFTGPIPRPPPHGRPPLGPICNACYRLSFSDVRICCNFLGKCCHLVKz
+>E05549|Antimicrobial peptide, Panaeidin-4a|European white shrimp (Penaeus vannamei)
++HSSGYTRPLPKPSRPIFIRPIGCDVCYGIPSSTARLCCFRYGDCCHRz
+>E05550|Antimicrobial peptide, Panaeidin-4c|European white shrimp (Penaeus vannamei)
++YSSGYTRPLPKPSRPIFIRPIGCDVCYGIPSSTARLCCFRYGDCCHRz
+>E05547|Antimicrobial peptide, Panaeidin-4d|Atlantic white shrimp (Litopenaeus setiferus)
++HSSGYTRPLRKPSRPIFIRPIGCDVCYGIPSSTARLCCFRYGDCCHLz
+>E04430|Antimicrobial peptide, Pandinin 1|emperor scorpion (Pandinus imperator)
++GKVWDWIKSAAKKIWSSEPVSQLKGQVLNAAKNYVAEKIGATPT-
+>E04429|Antimicrobial peptide, Parabutoporin|scorpion (Parabuthus schlechteri)
++FKLGSFLKKAWKSKLAKKLRAKGKEMLKDYAKGLLEGGSEEVPGQ-
+>E05773|Antimicrobial peptide, Pp-AMP 1|Japanese bamboo (Phyllostachys pubescens)
++KSCCRSTQARNIYNAPRFAGGSRPLCALGSGCKIVDDKKTPPND-
+>E05774|Antimicrobial peptide, Pp-AMP 2|Japanese bamboo (Phyllostachys pubescens)
++KSCCRSTTARNIYNGCRVPGTARPVCAKKSGCKIQEAKKCEPPYD-
+>E04595|Antimicrobial peptide, Psychimicin|bagworm moth (Oiketicus kirbyi)
++INNWVRVPPCDQVCSRTNPEKDECCRAHGHAFHATCSGGMQCYRR-
+>E04167|Antimicrobial peptide, PvHCt|white shrimp (Penaeus vannamei)
++FEDLPNFGHIQLKVFNHGEHIHH-
+>E04273|Antimicrobial peptide, Stomoxin|stable fly (Stomoxys calcitrans)
++RGFRKHFNKLVKKVKHTISETAHVAKDTAVIAGSGAAVVAATz
+>E02434|Antimicrobial peptide, Tachystatin A1|Atlantic Japanese horseshoe crab (Tachypleus tridentatus)
++YSRCQLQGFNCVVRSYGLPTIPCCRGLTCRSYFPGSTYGRCQRFY-
+>E02818|Antimicrobial peptide, Temporin-1Ga|North American pig frog (Rana grylio)
++SILPTIVSFLSKVFz
+>E05772|Antimicrobial peptide, Tu-AMP 1|tulip (Tulipa gesneriana)
++KSCCRNTVARNCYNVCRIPGTPRPVCAATCDCKLITGTKCPPGYEK-
+>E07798|Atesin-1|fungus (Aspergillus terreus)
++GYGCPNDYSCSNYCSSIGRNGGYCGGFLWQTCKCNEKK-
+>E07799|Atesin-2|fungus (Aspergillus terreus)
++GYGCPNDYACSSYCSSIGRNGGYCGGFLWQTCKCNEKK-
+>E07800|Atesin-3|fungus (Aspergillus terreus)
++SSCQLGDIWGAGDAACSASCIAQGEGYHGGHCNDDSVCVCNY-
+>E05812|Avesin|oat (Avena sativa)
+WSGCSPCPGNECCSKYGYCGLGGDYCGAGCQSGPCYG
+>E20236|Bacteriocin BacSP222|bacterium: Staphylococcus pseudintermedius
++MAGLLRFLLSKGRALYNWAKSHVGKVWEWLKSGATYEQIKEWIENALGWR-
+>E20581|Bactrocerin-1|Oriental fruit fly (Bactrocera dorsalis)
++VGKTWIKVIRGIGKSKIKWQ-
+>E23129|beta-Defensin 103|human (Homo sapiens)
++GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCR-
+>E05703|beta-Defensin-1, cBD-1|chinchilla (Chinchilla langiera)
++GIINTIQRYFCRVRGGRCAALTCLPRETQIGRCSVKGRKCCRTRK-
+>E19875|Bombinin BO1|Asian oriental fire-bellied toad (Bombina orientalis)
++GIGSAILSAGKSIIKGLAKGLAEHFz
+>E19876|Bombinin H-BO1|Asian oriental fire-bellied toad (Bombina orientalis)
++IIGPVLGLVGKALGGLLz
+>E09482|Bombolitin 6|red-tailed bumblebee (Bombus lapidarius)
++LNLTKWLGKLGVILSHLNK-
+>E09483|Bombolitin 7|red-tailed bumblebee (Bombus lapidarius)
++LKLKDILGKIKVILSHLNK-
+>E09484|Bombolitin 8|red-tailed bumblebee (Bombus lapidarius)
++LKLKSILGKLGVILSHLNK-
+>E00017|Bradykinin|bovine (Bos taurus), European common frog (Rana temporaria), North American pickerel frog (Rana palustris), Asian oriental fire-bellied toad (Bombina orientalis), piebald odorous frog (Odorrana schmackeri), tailed frog (Ascaphus truei), laughing frog *
++RPPGFSPFR-
+>E23070|Bradykinin-potentiating peptide NDBP6|Chinese swimming scorpion (Lychas mucronatus)
++FRFGSFLKKVWKSKLAKKLRSKGKQLLKDYANRVLNGPEEEAAAPAE-
+>E10948|Brevenin 1HN1|odor frog (Odorrana hainanensis), Brevinin-1-OS1 ( Schmacker's long-snout torrent frog)
++FLPLIASLAANFVPKIFCKITKKC-
+>E11014|Brevenin 2-RN1|black-stripped frog (Rana nigrovittata)
++GAFGNFLKGVAKKAGLKILSIAQCKLSGTC-
+>E11015|Brevenin 2-RN2|black-stripped frog (Rana nigrovittata)
++GAFGNFLKGVAKKAGLKILSIAQCKLFGTC-
+>E20288|Brevinin 1SN2|fine-spined frog (Hylarana spinulosa)
++FMGTALKIAANVLPAAFCKIFKKC-
+>E10313|Brevinin 1TOa|Tago frog (Rana tagoi)
++GIGSILGVIAKGLPTLISWIKNRz
+>E09764|Brevinin 1VLa|Central American frog (Lithobates vaillanti)
++FLGAIAGVAAKFLPKVFCFITKKC-
+>E09765|Brevinin 1VLb|Central American frog (Lithobates vaillanti)
++FLGAIAGVAAKVLPKVFCFITKKC-
+>E09766|Brevinin 1VLc|Central American frog (Lithobates vaillanti)
++FLPVIASVAAKVLPKVFCFITKKC-
+>E09767|Brevinin 1VLd|Central American frog (Lithobates vaillanti)
++FLPLIAGVAANFLPKIFCLISKKC-
+>E09768|Brevinin 1VLe|Central American frog (Lithobates vaillanti)
++FLPLIAGVAASILPKIFCFITKKC-
+>E20878|Brevinin-1-AJ1|Chinese torrent frog (Amolops jingdongensis)
++FLSTLLKVAFKVVPTLFCPITKKC-
+>E12110|Brevinin-1-OA1|golden crossband frog (Odorrana andersonii)
++VIVFVASVAAEMMQHVYCAASKKC-
+>E05120|Brevinin-1BYa|foothill yellow-legged frog (Rana boylii)
++FLPILASLAAKFGPKLFCLVTKKC-
+>E05121|Brevinin-1BYb|foothill yellow-legged frog (Rana boylii)
++FLPILASLAAKLGPKLFCLVTKKC-
+>E05122|Brevinin-1BYc|foothill yellow-legged frog (Rana boylii)
++FLPILASLAATLGPKLLCLITKKC-
+>E12050|Brevinin-1CG1|Chungan torrent frog (Amolops chunganensis)
++FLSTALKVAANVVPTLFCKITKKC-
+>E12051|Brevinin-1CG2|Chungan torrent frog (Amolops chunganensis)
++FLPIVAGLAANFLPKIVCKITKKC-
+>E12052|Brevinin-1CG3|Chungan torrent frog (Amolops chunganensis)
++FLSTLLNVASNVVPTLICKITKKC-
+>E12053|Brevinin-1CG4|Chungan torrent frog (Amolops chunganensis), granular torrent frog (Amolops granulosus)
++FLSTLLNVASKVVPTLFCKITKKC-
+>E12054|Brevinin-1CG5|Chungan torrent frog (Amolops chunganensis)
++FLPMLAGLAANFLPKIVCKITKKC-
+>E10927|Brevinin-1CHc|Chiricahua leopard frog (Lithobates chiricahuensis)
++FFPTIAGLTKLFCAITKKC-
+>E20075|Brevinin-1LF1|Lifan torrent frog (Amolops lifanensis)
++FLPMLAGLAANFLPKIICKITKKC-
+>E20076|Brevinin-1LF2|Lifan torrent frog (Amolops lifanensis)
++FLPIVASLAANFLPKIICKITKKC-
+>E10024|Brevinin-1LTa|broad-folded frog (Rana latouchii), Asian frog (Hylarana maosuoensis)
++FFGTALKIAANVLPTAICKILKKC-
+>E20728|Brevinin-1PRa|Oregon spotted frog (Rana pretiosa)
++FLPVLTGLTPSIVPKLVCLLTKKC-
+>E20729|Brevinin-1PRb|Oregon spotted frog (Rana pretiosa)
++FLPVLAGLTPSIVPKLVCLLTKKC-
+>E20064|Brevinin-1TP1|Taipei frog (Hylarana taipehensis)
++FLPGLIKAAVGVGSTILCKITKKC-
+>E20065|Brevinin-1TP2|Taipei frog (Hylarana taipehensis)
++FLPGLIKAAVGIGSTIFCKISKKC-
+>E20066|Brevinin-1TP3|Taipei frog (Hylarana taipehensis)
++FLPGLIKVAVGVGSTILCKITKKC-
+>E20067|Brevinin-1TP4|Taipei frog (Hylarana taipehensis)
++FLPGLIKAAVGIGSTIFCKISRKC-
+>E04191|Brevinin-1TRa|Tarahumara frog (Rana tamahumarae)
++FLPVIAGIAANVLPKLFCKLTKRC-
+>E04192|Brevinin-1TRb|Tarahumara frog (Rana tamahumarae)
++FLPFIASMAAKLVPKLVCAITKKC-
+>E04193|Brevinin-1TRc|Tarahumara frog (Rana tamahumarae)
++FLPVLAGIAANVLPTLICKLTRRC-
+>E10222|Brevinin-1Ya|lowland leopard frog (Lithobates yavapaiensis)
++FLPVIAGVAANFLPKLFCAISKKC-
+>E10223|Brevinin-1Yb|lowland leopard frog (Lithobates yavapaiensis)
++FLPIIAGAAAKVVQKIFCAISKKC-
+>E10224|Brevinin-1Yc|lowland leopard frog (Lithobates yavapaiensis)
++FLPIIAGAAAKVVEKIFCAISKKC-
+>E12055|Brevinin-2CG1|Chungan torrent frog (Amolops chunganensis)
++GILDKLKEFGISAARGVAQSLLNTASCKLAKTC-
+>E11115|Brevinin-2RTa|Chinese sucker frog (Amolops ricketti)
++GLMSTLKDFGKTAAKEIAQSLLSTASCKLAKTC-
+>E10678|Caerulein-precursor fragment CPF-B1|Marsabit clawed frog (Xenopus borealis)
++GLGSLLGKAFKIGLKTVGKMMGGAPREQ-
+>E20847|Caerulein-precursor fragment CPF-SP1|tetraploid frog (Silurana paratropicalis)
++GFLGPLLKLGLKGVAKVLPHLIPSRQQ-
+>E10089|Cancrin|crab-eating frog (Rana cancrivora)
++GSAQPYKQLHKVVNWDPYG-
+>E07427|Casein alpha-s1 [194-199]|bovine (Bos taurus)
++TTMPLW-
+>E19604|Cathelicidin 3|Tasmanian devil (Sarcophilus harrisii)
++KRMGIFHLFWAGLRKLGNLIKNKIQQGIENFLG-
+>E19608|Cathelicidin 5|Tasmanian devil (Sarcophilus harrisii)
++KRIGLIRLIGKILRGLRRLG-
+>E19609|Cathelicidin 6|Tasmanian devil (Sarcophilus harrisii)
++KRIRFFERIRDRLRDLGNRIKNRIRDFFS-
+>E19804|Cathelicidin As-CATH4|Chinese alligator (Alligator sinensis)
++RRGLFKKLRRKIKKGFKKIFKRLPPVGVGVSIPLAGRR-
+>E19805|Cathelicidin As-CATH5|Chinese alligator (Alligator sinensis)
++TRRKFWKKVLNGALKIAPFLLG-
+>E19806|Cathelicidin As-CATH6|Chinese alligator (Alligator sinensis)
++TRWLWLLRGGLKAAGWGIRAHLNRNQ-
+>E20195|Cathelicidin Cl-CATH2|rock dove (Columba livia)
++LIQRGRFGRFLGRIRRFRPRINFDIRARGSIRLz
+>E20426|Cathelicidin CMAP27|chicken (Gallus gallus)
++RFGRFLRKIRRFRPKVTITIQGSARFG-
+>E20172|Cathelicidin Hc-CATH |Asian annulated sea snake (Hydrophis cyanocinctus )
++KFFKRLLKSVRRAVKKFRKKPRLIGLSTLL-
+>E20457|Cathelicidin K9CATH|dog (Canis familiaris)
++RLKELITTGGQKIGEKIRRIGQRIKDFFKNLQPREEKS-
+>E20311|Cathelicidin Lf-CATH1|fragile wart frog (Limnonectes fragilis)
++PPCRGIFCRRVGSSSAIARPGKTLSTFITV-
+>E20312|Cathelicidin Lf-CATH2|fragile wart frog (Limnonectes fragilis)
++GKCNVLCQLKQKLRSIGSGSHIGSVVLPRG-
+>E20716|Cathelicidin Pc-CATH1|black-necked pheasant (Phasianus colchicus)
++RIKRFWPVVIRTVVAGYNLYRAIKKK-
+>E20582|Cathelicidin-3.4|goat (Capra hirca)
++RFRLPFRRPPIRIHPPPFYPPFRRFLz
+>E19995|Cathelicidin-BF|banded krait (Bungarus fasciatus)
++KFFRKLKKSVKKRVKKFFKKPRVIGVTIPF-
+>E19807|Cathelicidin-PP|Chinese tree frog (Polypedates puerensis)
++ASENGKCNLLCLVKKKLRAVGNVIKTVVGKIA-
+>E20057|Cathelicidin-RC1|American bull frog (Rana catesbeiana)
++KKCKFFCKVKKKIKSIGFQIPIVSIPFK-
+>E23120|Cathelicidin-related peptide Pt_CRAMP2|Eastern brown snake (Pseudonaja textilis)
++KRFKKFFRKLKKSVKKRVKKFFKKPRVIGVTIPF-
+>E01357|Cationic cystein-rich peptide R-2|rat (Rattus norvegicus)
++VTCSCRTSSCRFGERLSGACRLNGRIYRLCC-
+>E21295|Cecropin|red flour beetle (Tribolium castaneum)
++VTCDLLSAEAKGVKVNHAACAAHCLLKRKRGGYCNRRICVCRN-
+>E20200|Cecropin 2|diamondback moth (Plutella xylostella)
++NPFKKLERVGQHIRDGIIKAGPAVEVIGQANSIARPAGKz
+>E20201|Cecropin 3|diamondback moth (Plutella xylostella)
++KGFKKIEKLGRHIRDGVVKAGPAVGVVGQASSIMz
+>E21294|Cecropin A 2|monarch butterfly (Danaus plexippus)
++RWKFLKKIEKVGRKVRDGVIKAGPAVGVVGQATSIYKz
+>E20903|Cecropin Px-cec1|diamondback moth (Plutella xylostella)
++KPFKKLEKVGRNIRDGIIKAGPAVAVIGQATSIARPTGK-
+>E07648|Cecropin-D-like peptide|wax moth (Galleria mellonella)
++ENFFKEIERAGQRIRDAIISAAPAVETLAQAQKIIKGGD-
+>E07644|Cecropin-D-like peptide|wax moth (Galleria mellonella)
++ENFFKEIERAGQRIRDAIISAAPAVETLAQAQKIIKGGD-
+>E07814|Cglosin-1C|soil fungus (Chaetomium globosum)
++SVCCSFPDPVGGLCCEAHCQQIGHLEGGQCTAQNVCVCG-
+>E07815|Cglosin-1N|soil fungus (Chaetomium globosum)
++QDCSSVVCVLGDGACNRVCEMEGHTEGGKCVPRDGCPAGSEICVCGAKKA-
+>E20330|Champacyclin|bacterium (Streptomyces champavatii)
+KIIFLIAI
+>E07380|Chevalierin A|beille (Jatropha chevalieri)
+GIPILAIM
+>E07212|Chitinase basic class I [21-60|grape (Vitis vinifera)
++EQCGGQAGGRVCPGGACCSKFGRCGNTADYCGSGCQSQCS-
+>E07209|Chitinase extracellular class I [23-62] grap|grape (Vitis vinifera)
++EQCGRQAGGALCSGGLCCSQYGYCGSTSAYCSTGCQSQCP-
+>E20128|Codesane|solitary wild bee (Colletes daviesanus)
++GMASLLAKVLPHVVKLIK-
+>E20110|Cremycin-1/2|fruit nematode (Caenorhabditis remanei)
++DVISSNFRGLCYFSSNCRGVCRGEGFVSGHCSYWGGACWCSV-
+>E20111|Cremycin-3/4|fruit nematode (Caenorhabditis remanei)
++DVVSRNYRGQCWSYSNCRAVCRDEGYVSGHCNYFGGACWCAS-
+>E20112|Cremycin-5|fruit nematode (Caenorhabditis remanei)
++DVKSGHYKGPCYHDENCNGVCRDEGYKSGHCSRWGGACWCDT-
+>E14928|Cruzioseptin-1|splendid leaf frog (Cruziohyla calcarifer)
++GFLDIVKGVGKVALGAVSKLFz
+>E14929|Cruzioseptin-2|splendid leaf frog (Cruziohyla calcarifer)
++GFLDVIKHVGKAALGVVTHLINQz
+>E14930|Cruzioseptin-3|splendid leaf frog (Cruziohyla calcarifer)
++GFLDVVKHIGKAALGAVTHLINQz
+>E04332|Cysteine-rich antifungal peptide 3|radish (Raphanus sativus), rape (Brassica napus)
++KLCERSSGTWSGVCGNNNACKNQCIRLEGAQHGSCNYVFPAHKCICYFPC-
+>E20907|Datucin|common thornapple (Datura stramonium)
++TFPKCAPTRPPGPKPCDINNFKSKFWHIWRAN-
+>E06091|Decoralin|Potter wasp (Oreumenes decoratus)
++SLLSLIRKLIT-
+>E09115|Defensin|common sunflower (Helianthus annuus)
++RTCESQSHKFKGTCLSDYNCANVCHSERFSGGKCRGFRRRCFCTTHC-
+>E21296|Defensin|human body louse (Pediculus humanus)
++ATCDLLSASTPWGSLNHSACAAHCLTKRYKGGRCRNGICRCRR-
+>E12932|Defensin|sweetpotato whitefly (Bemisia tabaci)
++DVLIGSCVWGGVNYTSDCLKECKRRGYKGGHCGSALNVNCWCETRK-
+>E05942|Defensin|wax moth (Galleria mellonella)
++DTLIGSCVWGATNYTSDCNAECKRRGYKGGHCGSFLNVNCWCE-
+>E07389|Defensin 1|hamadryas baboon (Papio hamadryas)
++RRICRCRIGRCLGLEVYFGVCFLHGRLARRCCR-
+>E23132|Defensin 1|peanut (Arachis hypogaea)
++KLCNHLADTYRGPCFTNASCDDHCKNKEHFVSGTCMKMACWCAHNC-
+>E20259|Defensin 114|human (Homo sapiens)
++DRCTKRYGRCKRDCLESEKQIDICSLPRKICCTEKLYEEDDMF-
+>E07390|Defensin 2|hamadryas baboon (Papio hamadryas)
++RICRCRIGRCLGLEVYFGVCFLHGRLARRCCR-
+>E23133|Defensin 2|peanut (Arachis hypogaea)
++KECLNLSDKFKGPCLGSKNCDHHCRDIEHLLSGVCRDDFRCWCNRKC-
+>E07391|Defensin 3|hamadryas baboon (Papio hamadryas)
++RTCRCRLGRCSRRESYSGSCNINGRIYSLCCR-
+>E23131|Defensin 3|peanut (Arachis hypogaea)
++KVCLNLSDKFKGPCLGTKNCDHHCRDIEHLLSGVCRDDFRCWCNRNC-
+>E03012|Defensin Ah-AMP1|horse chestnut (Aesculus hippocastanum)
++LCNERPSQTWSGNCGNTAHCDKQCQDWEKASHGACHKRENHWKCFCYFNC-
+>E20486|Defensin AJ498901|Barrel medic (Medicago truncatula)
++KTCENLADKYRGPCFSGCDTHCTTKENAVSGRCRDDFRCWCTKNC-
+>E20489|Defensin AJ499268|Barrel medic (Medicago truncatula)
++NICKRKSTTWSGPCLNTGNCKNQCINVEHAIFGACHQDGFGFACFCYFNC-
+>E20492|Defensin AJ499425/AL385826|Barrel medic (Medicago truncatula)
++KLCRGRSKLWSGPCINSKCKRQCINVERAVSGGCHLDNTGVFCFCDFKC-
+>E07783|Defensin ARD1|one-spotted leafwing butterfly (Archaeoprepona demophon)
++DKLIGSCVWGAVNYTSNCNAECKRRGYKGGHCGSFANVNCWCET-
+>E20576|Defensin beta 1|European pond turtle (Emys orbicularis)
++YDLSKNCRLRGGICYIGKCPRRFFRSGSCSRGNVCCLRFGz
+>E20345|Defensin beta 1|sheep  (Ovis aries)
++QGVRNRLSCHRNKGVCVPSRCPRHMRQIGTCRGPPVKCCRKK-
+>E20346|Defensin beta 2|sheep  (Ovis aries)
++HGVTDSLSCRWKKGICVLTRCPGTMRQIGTCFGPPVKCCRLK-
+>E20482|Defensin BG452001|Barrel medic (Medicago truncatula)
++RTCELQSHKFKGPCASDHNCASVCQTERFSGGHCRGFRRKCFCTTHC-
+>E20484|Defensin CA990416|Barrel medic (Medicago truncatula)
++GRRCESQSHKFKGPCVSDSNCGSVCRGEGFIGGDCRGVRHRCFCTRNC-
+>E03013|Defensin Ct-AMP1|butterfly pea (Clitoria ternatea)
++NLCERASLTWTGNCGNTGHCDTQCRNWESAKHGACHKRGNWKCFCYFNC-
+>E03014|Defensin Dm-AMP1|dahlia (Dahlia merckii)
++ELCEKASKTWSGNCGNTGHCDNQCKSWEGAAHGACHVRNGKHMCFCYFNC-
+>E03015|Defensin Dm-AMP2|dahlia (Dahlia merckii)
++EVCEKASKTWSGNCGNTGHC-
+>E07387|Defensin Ec-AMP-D1|annual weed barnyard grass (Echinochloa crusgalli)
++RECQSQSHRYKGACVHDTNCASVCQTEGFSGKCVGFRGRCFCTKAC-
+>E07388|Defensin Ec-AMP-D2|annual weed barnyard grass (Echinochloa crusgalli)
++RECQSQSHRYKGACVHDTNCASVCQTEGFSGKCVGFRGRCFCTKHC-
+>E20470|Defensin Ha-DEF1|common sunflower (Helianthus annuus)
++ELCEKASQTWSGTCGKTKHCDDQCKSWEGAAHGACHVRDGKHMCFCYFNC-
+>E19845|Defensin HlDFS1|bush tick (Haemaphysalis longicornis)
++GFGCPFNARRCHRHCRSIRRRAGYCAGRLRLTCTCVR-
+>E03010|Defensin J1-1|bell pepper (Capsicum annuum)
++KICEALSGNFKGLCLSSRDCGNVCRREGFTDGSCIGFRLQCFCTKPCA-
+>E03011|Defensin J1-2|bell pepper (Capsicum annuum)
++RTCESQSHRFKGLCFSKSNCGSVCHTEGFNGGHCRGFRRRCFCTRHC-
+>E07386|Defensin Lc-def|cultivated lentil (Lens culinaris subsp. culinaris)
++KTCENLSDSFKGPCIPDGNCNKHCKEKEHLLSGRCRDDFRCWCTRNC-
+>E20478|Defensin MsDef1.1/2|alfalfa (Medicago sativa), Barrel medic (Medicago truncatula)
++KTCENLADKYRGPCFSGCDTHCTTKENAVSGRCRDDFRCWCTKRC-
+>E20480|Defensin MsDef1.2.1|alfalfa (Medicago sativa)
++RTCEHLADTYRGPCFTDASCDDHCKNKAHLISGTCHRLQCFCTQNC-
+>E20479|Defensin MsDef1.3-6|alfalfa (Medicago sativa)
++RTCENLADKYRGPCFSGCDTHCTTKENAVSGRCRDDFRCWCTKRC-
+>E20481|Defensin MtDef2.1|Barrel medic (Medicago truncatula)
++RTCEHLADTYRGPCFTEGSCDDHCKNKAHLISGTCHNFQCFCTQNC-
+>E20640|Defensin NmDef02|wild tobacco (Nicotiana megalosiphon)
++RECKAQGRHGTCFRDANCVQVCEKQAGWSHGDCRAQFKCKCIFEC-
+>E11433|Defensin Ns-D1|black cumin (Nigella sativa)
++KFCEKPSGTWSGVCGNSGACKDQCIRLEGAKHGSCNYKPPAHRCICYYEC-
+>E11434|Defensin Ns-D2|black cumin (Nigella sativa)
++KFCEKPSGTWSGVCGNSGACKDQCIRLEGAKHGSCNYKLPAHRCICYYEC-
+>E04087|Defensin Psd1|garden pea (Pisum sativum)
++KTCEHLADTYRGVCFTNASCDDHCKNKAHLISGTCHNWKCFCTQNC-
+>E04088|Defensin Psd2|garden pea (Pisum sativum)
++KTCENLSGTFKGPCIPDGNCNKHCRNNEHLISGRCRDDFRCWCTNRC-
+>E08080|Defensin PvD1|kidney bean / French bean (Phaseolus vulgaris)
++KTCENLADTYKGPCFTTGSCDDHCKNKEHLRSGRCRDDFRCWCTKNC-
+>E20545|Defensin Sd1|sugarcane (Saccharum spp.)
++RYCLSQSHRFKGLCMSSSNCANVCQTENFPGGECKADGATRKCFCKKIC-
+>E20547|Defensin Sd3|sugarcane (Saccharum spp.)
++RHRHCFSQSHKFVGACLRESNCENVCKTEGFPSGECKWHGIVSKCHCKRIC-
+>E20549|Defensin Sd6|sugarcane (Saccharum spp.)
++ARVCMGKSQHHSFPCISDRLCSNECVKEDGGWTAGYCHLRYCRCQKAC-
+>E02421|Defensin So-3|spinach (Spinacia oleracea)
++GIFSSRKCKTVSKTFRGICTRNANC-
+>E02422|Defensin So-4|spinach (Spinacia oleracea)
++MFFSSKKCKTVSKTFRGPCVRNA-
+>E02423|Defensin So-7|spinach (Spinacia oleracea)
++GIFSSRKCKTPSKTFKGYCTRDSNCDTSCRYEGYPAGD-
+>E09076|Defensin SPE10|yam bean (Pachyrhizus erosus)
++KTCENLADTFRGPCFTDGSCDDHCKNKEHLIKGRCRDDFRCWCTRNC-
+>E20487|Defensin TC76542|Barrel medic (Medicago truncatula)
++CEKPSKFFSGACIGSSGNQQCGYLCRRGEGLLSGSCKNLKCVCAC-
+>E20490|Defensin TC77480|Barrel medic (Medicago truncatula)
++NICKRKSTTWSGPCLNTGNCKNQCINVEHATFGACHQDGFGFACFCYFNC-
+>E20493|Defensin TC84759|Barrel medic (Medicago truncatula)
++KVCQKRSKTWSGPCLNTGNCKRQCVDVENATFGACHRQGYGFACFCYKKC-
+>E20483|Defensin TC85327|Barrel medic (Medicago truncatula)
++RTCESQSHKFKGPCASDHNCASVCQTERFSGGHCRGFRRRCFCTTHC-
+>E20494|Defensin TC87273-1|Barrel medic (Medicago truncatula)
++KLCQKRSTTWSGPCLNTGNCKRQCINVENATFGACHRQGFGFACFCYKKC-
+>E20495|Defensin TC87273-2|Barrel medic (Medicago truncatula)
++KLCERRSKTWSGPCLISGNCKRQCINVEHATSGACHRQGIGFACFCKKKC-
+>E20488|Defensin TC87634|Barrel medic (Medicago truncatula)
++CEVKSPTFNGHCNDPISDKICDINCRFGEGLINGSCKNQECMCVC-
+>E20485|Defensin TC89352|Barrel medic (Medicago truncatula)
++GRRCESKSHKFKGPCSRDSNCASVCRGEGFTGGDCRGFRRRCFCTRNC-
+>E20491|Defensin TC90864|Barrel medic (Medicago truncatula)
++NTCQRKSKTWSGPCLNTGNCKNQCISKEPPATFGACHRDGIGFACFCYFNC-
+>E20498|Defensin teta BTD-1|olive baboon (Papio anubis)
+RCVCTRGFCRCVCRRGVC
+>E20507|Defensin teta BTD-10|olive baboon (Papio anubis)
+RCFCRRGVCRCFCRRGVC
+>E20499|Defensin teta BTD-2|olive baboon (Papio anubis)
+RCVCRRGVCRCVCRRGVC
+>E20500|Defensin teta BTD-3|olive baboon (Papio anubis)
+RCVCTRGFCRCVCTRGFC
+>E20501|Defensin teta BTD-4|olive baboon (Papio anubis)
+RCVCTRGFCRCICLLGIC
+>E20502|Defensin teta BTD-5|olive baboon (Papio anubis)
+RCVCRRGVCRCICLLGIC
+>E20503|Defensin teta BTD-6|olive baboon (Papio anubis)
+RCICLLGICRCICLLGIC
+>E20504|Defensin teta BTD-7|olive baboon (Papio anubis)
+RCVCTRGFCRCFCRRGVC
+>E20505|Defensin teta BTD-8|olive baboon (Papio anubis)
+RCVCRRGVCRCFCRRGVC
+>E20506|Defensin teta BTD-9|olive baboon (Papio anubis)
+RCICLLGICRCFCRRGVC
+>E20720|Defensin teta RTD-4|rhesus macaque (Macaca mulatta)
+GFCRCLCRRGVCRCICTR
+>E20721|Defensin teta RTD-5|rhesus macaque (Macaca mulatta)
+GICRCLCRRGVCRCICVL
+>E20722|Defensin teta RTD-6|rhesus macaque (Macaca mulatta)
+GICRCLCRRGVCRCICVL
+>E09180|Defensin VaD1|azuki bean (Vigna angularis)
++KTCMTKKEGWGRCLIDTTCAHSCRKQGYKGGNCKGMRRTCYCLLDC-
+>E09181|Defensin VrD1|mung bean (Vigna radiata)
++RTCMIKKEGWGKCLIDTTCAHSCKNRGYIGGNCKGMTRTCYCLVNC-
+>E20456|Defensin VrD2|mung bean (Vigna radiata)
++KTCENLANTYRGPCFTTGSCDDHCKNKEHLRSGRCRDDFRCWCTRNC-
+>E23270|Defensin-2|Scots pine (Pinus sylvestris)
++RMCKTPSAKFKGYCVSSTNCKNVCRTEGFPTGSCDFHITSRKCYCYKPCP-
+>E20817|Defensin-like antimicrobial peptide|bush tick (Haemaphysalis longicornis)
++DFGCARGMIFVCMRRCARMYPGSTGYCQGFRCMCDTHIPIRRPPFIMG-
+>E07647|Defensin-like peptide|wax moth (Galleria mellonella)
++DKLIGSCVWGATNYTSDCNAECKRRGYKGGHCGSFWNVNCWCEE-
+>E06102|Defensin-like peptide, Limentin|Lima bean (Phaseolus lunatus / Phaseolus limensis)
++KTCENLADTYKGPCFTTGGCDDHCKNKEHLLSGRCRDDFRCWCTRNC-
+>E20188|Defensin-TK|Kwangsi warty tree frog (Theloderma kwangsiense)
++SPAIWGCDSFLGYCRLACFAHEASVGQKECAEGMLCCIPNV-
+>E23406|Demidefensin-3|rhesus macaque (Macaca mulatta)
+RCICVLGIC
+>E19395|Dermaseptin 1.2TR|Trinidad leaf frog (Phyllomedusa trinitatis)
++GLWSKIKETGKEAAKAAGKAALDKIAEAVz
+>E19397|Dermaseptin 3.2TR|Trinidad leaf frog (Phyllomedusa trinitatis)
++GLFKTLIKGAGKMLGHVAKEFLGSQGQPES-
+>E19398|Dermaseptin 3.3TR|Trinidad leaf frog (Phyllomedusa trinitatis)
++GLFKTLIKGAGKMLGHVAKEFLGSQGEPES-
+>E04149|Dermaseptin DRG1|two-colored leaf frog (Phyllomedusa bicolor)
++GLWSNIKTAGKEAAKAALKAAGKAALGAVTDAVz
+>E04150|Dermaseptin DRG2|two-colored leaf frog (Phyllomedusa bicolor)
++RGLWSKIKEAGKAALTAAGKAALGAVSDAVz
+>E04151|Dermaseptin DRG3|two-colored leaf frog (Phyllomedusa bicolor)
++ALWKTIIKGAGKMIGSLAKNLLGSQAQPES-
+>E05022|Dermaseptin DS VI|Sauvage's leaf frog (Phyllomedusa sauvagei)
++GLWSKIKTAGKEAAKAAAKAAGKAALNAVSEAIGEQ-
+>E05023|Dermaseptin DS VII|Sauvage's leaf frog (Phyllomedusa sauvagei)
++GLWKSLLKNVGKAAGKAALNAVTDMVNQGEQ-
+>E05024|Dermaseptin DS VIII|Sauvage's leaf frog (Phyllomedusa sauvagei)
++ALWKTMLKKLGTVALHAGKAALLGAAADTISQGAQ-
+>E01326|Dermaseptin II|Sauvage's leaf frog (Phyllomedusa sauvagei)
++ALWFTMLKKLGTMALHAGKAALGAAANTISQGTQ-
+>E01327|Dermaseptin III|Sauvage's leaf frog (Phyllomedusa sauvagei)
++ALWKNMLKGIGKLAGKAALGAVKKLVGAES-
+>E01328|Dermaseptin IV|Sauvage's leaf frog (Phyllomedusa sauvagei)
++ALWMTLLKKVLKAAAKAALNAVLVGANA-
+>E01329|Dermaseptin V|Sauvage's leaf frog (Phyllomedusa sauvagei)
++GLWSKIKTAGKSVAKAAAKAAVKAVTNAV-
+>E19386|Dermaseptin-1|brownbelly leaf frog (Phyllomedusa tarsius), Trinidad leaf frog (Phyllomedusa trinitatis)
++GLWSKIKETGKEAAKAAGKAALNKIAEAVz
+>E19387|Dermaseptin-3|brownbelly leaf frog (Phyllomedusa tarsius), Trinidad leaf frog (Phyllomedusa trinitatis)
++GLFKTLIKGAGKMLGHVAKQFLGSQGQPES-
+>E19388|Dermaseptin-4|brownbelly leaf frog (Phyllomedusa tarsius)
++ALWKDILKNAGKAALNEINQIVQz
+>E19389|Dermaseptin-5|brownbelly leaf frog (Phyllomedusa tarsius), Trinidad leaf frog (Phyllomedusa trinitatis)
++GLWSKIKEAAKTAGKAAMGFVNEMVz
+>E07793|Dermaseptin-L1|lemur leaf frog (Hylomantis lemur)
++GLWSKIKEAAKAAGKAALNAVTGLVNQGDQPS-
+>E09524|Dermaseptin-like peptide|blood fluke (Schistosoma mansoni)
++DLWNSIKDMAAAAGRAALNAVTGMVNQ-
+>E19879|Dermaseptin-PH|Brazilian orange-legged leaf frog (Phyllomedusa hypochondrialis)
++ALWKEVLKNAGKAALNEINNLVQz
+>E05396|Dermcidin DCD-1|human (Homo sapiens)
++SSLLEKGLDGAKKAVGGLGKLGKDAVEDLESVGKGAVHDVKDVLDSV-
+>E05397|Dermcidin DCD-1L|human (Homo sapiens)
++SSLLEKGLDGAKKAVGGLGKLGKDAVEDLESVGKGAVHDVKDVLDSVL-
+>E05137|Diapause peptide, Diapausin|leaf beetle (Gastrophysa atrocyanea)
++AVRIGPCDQVCPRIVPERHECCRAHGRSGYAYCSGGGMYCN-
+>E19599|Diapausin-1|tobacco hawkmoth (Manduca sexta)
++INNWVRVPPCDQVCSRSNPEKDECCRAHGHAFHAHCNGGMNCYRR-
+>E13017|Diketopiperazine LR [R2 modified]|bacterium: Bacillus cereus
+LR
+>E13018|Diketopiperazine PL [P1 modified]|bacterium: Bacillus cereus
+PL
+>E13019|Diketopiperazine VP|bacterium: Bacillus cereus
+VP
+>E13016|Diketopiperazine WF|bacterium: Comamonas testosteroni
+WF
+>E13014|Diketopiperazine WI|bacterium: Comamonas testosteroni
+WI
+>E13015|Diketopiperazine WL|bacterium: Comamonas testosteroni
+WL
+>E13012|Diketopiperazine WP|bacterium: Comamonas testosteroni
+WP
+>E13013|Diketopiperazine WY|bacterium: Comamonas testosteroni
+WY
+>E03004|Disease resistance response protein 230|garden pea (Pisum sativum)
++NTCENLAGSYKGVCFGGCDRHCRTQEGAISGRCRDDFRCWCTKNC-
+>E03003|Disease resistance response protein 39|garden pea (Pisum sativum)
++NTCEHLADTYRGVCFTNASCDDHCKNKAHLISGTCHDWKCFCTQNC-
+>E04304|Dolabellanin B2|sea hare (Dolabella auriculata)
++SCQDCYEALHKCMASHSKPFSCSMKFHMCLQQQ-
+>E04305|Dolabellanin B2 isoform with one methionine sulfoxide|sea hare (Dolabella auriculata)
++SCQDCYEALHKCMASHSKPFSCSMKFHMCLQQQ-
+>E04306|Dolabellanin B2 isoform with two methionine sulfoxides|sea hare (Dolabella auriculata)
++SCQDCYEALHKCMASHSKPFSCSMKFHMCLQQQ-
+>E20508|Drosomycin-like defensi|human (Homo sapiens)
++CLAGRLDKQCTCRRSQPSRRSGHEVGRPSPHCGPSRQCGCHMD-
+>E06927|Elicitor peptide AtPep1|mouse-ear cress (Arabidopsis thaliana)
++ATKVKAKQRGKEKVSSGRPGQHN-
+>E06928|Elicitor peptide AtPep2|mouse-ear cress (Arabidopsis thaliana)
++DNKAKSKKRDKEKPSSGRPGQTNSVPNAAIQVYKED-
+>E06929|Elicitor peptide AtPep3|mouse-ear cress (Arabidopsis thaliana)
++EIKARGKNKTKPTPSSGKGGKHN-
+>E06930|Elicitor peptide AtPep4|mouse-ear cress (Arabidopsis thaliana)
++GLPGKKNVLKKSRESSGKPGGTNKKPF-
+>E06931|Elicitor peptide AtPep5|mouse-ear cress (Arabidopsis thaliana)
++SLNVMRKGIRKQPVSSGKRGGVNDYDM-
+>E06932|Elicitor peptide AtPep6|mouse-ear cress (Arabidopsis thaliana)
++ITAVLRRRPRPPPYSSGRPGQNN-
+>E06933|Elicitor peptide AtPep7|mouse-ear cress (Arabidopsis thaliana)
++VSGNVAARKGKQQTSSGKGGGTN-
+>E10930|Esculentin-1ISb|Ishikawa's frog (Odorrana ishikawae)
++RIFSKIGGKAIKNLILKGIKNIGKEVGMDVIRTGIDVAGCKIKGEC-
+>E20983|Esculentin-1LTa|broad-folded frog (Hylarana latouchii / Sylvirana latouchii)
++RISFKKGKGSWIKNGLIKGIKGLGKEISLDVIRTGIDIAGCKIKGEC-
+>E10682|Esculentin-2-ALa|rufous-spotted torrent frog (Amolops loloensis), Sichuan torrent frog (Amolops mantzorum)
++GIFALIKTAAKFVGKNLLKQAGKAGLEHLACKANNQC-
+>E10683|Esculentin-2-ALb|rufous-spotted torrent frog (Amolops loloensis)
++GIFSLIKTAAKFVGKNLLKQAGKAGVEHLACKANNQC-
+>E12048|Esculentin-2CG1|Chungan torrent frog (Amolops chunganensis)
++SLFSIFKTAAKFVGKNLLKQAGKAGLETLACKAKNEC-
+>E10924|Esculentin-2CHa|Chiricahua leopard frog (Lithobates chiricahuensis)
++GFSSIFRGVAKFASKGLGKDLAKLGVDLVACKISKQC-
+>E10931|Esculentin-2ISa|Ishikawa's frog (Odorrana ishikawae)
++GIFSLIKGAAKLITKTVAKEAGKTGLELMACKVTNQC-
+>E20080|Esculentin-2LF1|Lifan torrent frog (Amolops lifanensis)
++GIFSLIKTAAKFVGKNLLKQAGKAGLEHLACKANNQC-
+>E20724|Esculentin-2PRb|Oregon spotted frog (Rana pretiosa)
++GIFSALAAGVKLLGNTLFKMAGKAGAEHLACKATNQC-
+>E11634|Eumenine mastoparan EMP-EF|solitary eumenine wasps (Eumenes rubrofemoratus)
++FDVMGIIKKIAGALz
+>E11633|Eumenine mastoparan EMP-ER|solitary eumenine wasps (Eumenes rubrofemoratus)
++FDIMGLIKKVAGALz
+>E11632|Eumenitin-F|solitary eumenine wasps (Eumenes rubrofemoratus)
++LNLKGLFKKVASLLT-
+>E11631|Eumenitin-R|solitary eumenine wasps (Eumenes rubrofemoratus)
++LNLKGLIKKVASLLN-
+>E23400|Floral defensin-like peptide PhD2|petunia (Petunia hybrida)
++GTCKAECPTWEGICINKAPCVKCCKAQPEKFTDGHCSKILRRCLCTKPC-
+>E22647|Food peptide|barley (Hordeum vulgare)
++EVSLNSGYY-
+>E22648|Food peptide|soybean (Glycine max)
++PGTAVFK-
+>E04038|Fungal growth inhibitor, Hevein|Para rubber tree (Hevea brasiliensis)
++EQCGRQAGGKLCPNNLCCSQWGWCGSTDEYCSPDHNCQSNCKD-
+>E03350|Fungal growth inhibitor, Pseudo-hevein|Para rubber tree (Hevea brasiliensis)
++EQCGRQAGGKLCPNNLCCSQYGWCGSSDDYCSPSKNCQSNCKGGG-
+>E20909|Gaegurin LK-1|Kuhl's Creek frog (Limnonectes kuhlii)
++FIGPVLKMATSILPTAICKGFKKC-
+>E20910|Gaegurin LK-2|Kuhl's Creek frog (Limnonectes kuhlii)
++FLGPIIKMATGILPTAICKGLKKC-
+>E06843|Galiomicin|wax moth (Galleria mellonella)
++DTLIGRCVWGATNYTSDCNAECKRRGYKGGHCGSFLNVNCWCE-
+>E01495|Gallinacin 1|chicken (Gallus gallus)
++GRKSDCFRKSGFCAFLKCPSLTLISGKCSRFYLCCKRIW-
+>E01494|Gallinacin 1a|chicken (Gallus gallus)
++GRKSDCFRKNGFCAFLKCPYLTLISGKCSRFHLCCKRIW-
+>E20260|Glycine-rich antimicrobial peptide Cc-GRP|robusta coffee (Coffea canephora)
++GNEGGGHGGHGGYGGYHHHGGGGGGYGGYHGGGGS-
+>E07085|Glycine-rich peptide GWK isoform 1|oriental picking melon / muskmelon (Cucumis melo)
++YKRGGGGWGGGGGWKGGGGGGGGWKGGGGGGKGGGG-
+>E07086|Glycine-rich peptide GWK isoform 2|oriental picking melon / muskmelon (Cucumis melo)
++YKRGGGGWGGGGGWKGGGGGGGGWKGGGGGGKGGG-
+>E07087|Glycine-rich peptide GWK isoform 3|oriental picking melon / muskmelon (Cucumis melo)
++YKRGGGGWGGGGGWKGGGGGGGGWKGGGGGGKGG-
+>E07088|Glycine-rich peptide GWK isoform 4|oriental picking melon / muskmelon (Cucumis melo)
++YKRGGGGWGGGGGWKGGGGGGGGWKGGGGGGKG-
+>E10449|Hemoglobin alpha chain [096-113]|bovine (Bos taurus)
++VNFKLLSHSLLVTLASHL-
+>E20458|Hepcidin TI1-5|Mozambique tilapia (Oreochromis mossambicus)
++GIKCRFCCGCCTPGICGVCCRF-
+>E22187|Hepcidin type 2-like antimicrobial peptide|panther puffer (Takifugu pardalis)
++RKRCRFCCNCCPGKQGCVFCCGF-
+>E10059|Hepsidin|croceine croaker (Larimichthys crocea /  Pseudosciaena crocea)
++RCRFCCRCCPRMRGCGICCRF-
+>E08750|Hevein-like peptide 1|mulberry tree (Morus sp.)
++PQCGRDAGGALCHGNLCCSHWGFCGTTAIYCDVDQGCQSQC-
+>E08751|Hevein-like peptide 2|mulberry tree (Morus sp.)
++HRCGRALGNPPCNPGRCCSIHNWCGSTAAYCRGSSCQYQCW-
+>E08747|Hevein-like peptide Ee-CBPb|European spindle tree (Euonymus europaeus)
+JQCGRQAGNRRCANNLCCSQYGYCGRTNEYCCTSQGCQSQCRRCG-
+>E08748|Hevein-like peptide Ee-CBPl|European spindle tree (Euonymus europaeus)
+JQCGRQAGNRRCPNNLCCSQFGYCGRTNEYCCTGFGCQSNCRRCG-
+>E08749|Hevein-like peptide Ee-chib/l|European spindle tree (Euonymus europaeus)
++EQCGRQAGGALCPGGQCCSQYGWCGTTNEYCGQGCQSQCG-
+>E08746|Hevein-like peptide SH-HLPf|European elder (Sambucus nigra)
++GPWQCGRDAGGALCHDNLCCSFWGFCGSTYQYCEDGCQSQCRDT-
+>E20344|Hinnavin I|small white butterfly (Artogeia rapae)
++GIKIGKKLEHMGIINIRDGLISAGPAVFAVGQAATIYAAAK-
+>E20655|Histatin 1|African green monkey (Cercopithecus aethiops)
++DSHEEKHHGHRRKHHGKHHSH-
+>E20652|Histatin 1|gorilla (Gorilla gorilla)
++DSHEKRHHGYRRKFHEKHHSHIEFPFYGDYGTNYLYDN-
+>E00640|Histatin 1|human (Homo sapiens)
++DSHEKRHHGYRRKFHEKHHSHREFPFYGDYGSNYLYDN-
+>E20653|Histatin 1|Northern white-cheeked gibbon (Nomascus leucogenys)
++DSHEKRHHEHRRKFHEKHHSHREYPFYGYYR-
+>E20654|Histatin 1|silvered leaf-monkey (Presbytis cristata)
++DSHIEKHHAHRRKFPERHHSHREFPSYGGYRSNYLYYS-
+>E04145|Histatin 10|human (Homo sapiens)
++KFHEKHHSHRGYR-
+>E04146|Histatin 11|human (Homo sapiens)
++KRHHGYKR-
+>E04147|Histatin 12|human (Homo sapiens)
++KRHHGYK-
+>E04137|Histatin 2|human (Homo sapiens)
++RKFHEKHHSHREFPFYGDYGSNYLYDN-
+>E04138|Histatin 3|human (Homo sapiens)
++DSHAKRHHGYKRKFHEKHHSHRGYRSNYLYDN-
+>E05593|Histatin 3 [1-11]|human (Homo sapiens)
++DSHAKRHHGYK-
+>E05594|Histatin 3 [1-12]|human (Homo sapiens)
++DSHAKRHHGYKR-
+>E05595|Histatin 3 [1-13]|human (Homo sapiens)
++DSHAKRHHGYKRK-
+>E05602|Histatin 3 [14-24]|human (Homo sapiens)
++FHEKHHSHRGY-
+>E05603|Histatin 3 [14-25]|human (Homo sapiens)
++FHEKHHSHRGYR-
+>E05604|Histatin 3 [15-25]|human (Homo sapiens)
++HEKHHSHRGYR-
+>E05605|Histatin 3 [28-32]|human (Homo sapiens)
++YLYDN-
+>E05596|Histatin 3 [5-13]|human (Homo sapiens)
++KRHHGYKRK-
+>E05597|Histatin 3 [6-11]|human (Homo sapiens)
++RHHGYK-
+>E05598|Histatin 3 [6-13]|human (Homo sapiens)
++RHHGYKRK-
+>E05599|Histatin 3 [7-11]|human (Homo sapiens)
++HHGYK-
+>E05600|Histatin 3 [7-12]|human (Homo sapiens)
++HHGYKR-
+>E05601|Histatin 3 [7-13]|human (Homo sapiens)
++HHGYKRK-
+>E04148|Histatin 3-2|human (Homo sapiens)
++DSHAKRHHGYKRKFHEKHHSHQGYRSN-
+>E05582|Histatin 3.1|human (Homo sapiens)
++DSHAK-
+>E05583|Histatin 3.2|human (Homo sapiens)
++DSHAKR-
+>E05584|Histatin 3.3|human (Homo sapiens)
++SHAKR-
+>E05585|Histatin 3.4|human (Homo sapiens)
++HEKHHSHRGY-
+>E05586|Histatin 3.5|human (Homo sapiens)
++HSHRGY-
+>E05587|Histatin 3.6|human (Homo sapiens)
++SNYLYDN-
+>E05588|Histatin 3.7|human (Homo sapiens)
++NYLYDN-
+>E05589|Histatin 3.8|human (Homo sapiens)
++LYDN-
+>E04139|Histatin 4|human (Homo sapiens)
++RKFHEKHHSHRGYRSNYLYDN-
+>E20660|Histatin 5|African green monkey (Cercopithecus aethiops)
++DSHEERHHGRHGHHGYGRKFHEKHHSHRGY-
+>E20658|Histatin 5|crab eating macaque / cynomoglus monkey (Macaca fascicularis)
++DSHEERRQGRHGHHEYGRKFHEKHHSHRGY-
+>E20656|Histatin 5|gorilla (Gorilla gorilla)
++DSHEKRHHGYKRKSHEKHHSHRGY-
+>E04140|Histatin 5|human (Homo sapiens)
++DSHAKRHHGYKRKFHEKHHSHRGY-
+>E20657|Histatin 5|Northern white-cheeked gibbon (Nomascus leucogenys)
++DSHEKRHHEHRRKFHEKHHSHRGY-
+>E20659|Histatin 5|silvered leaf-monkey (Presbytis cristata)
++DSHEEKHHGRHGHHEYGRKFQEKHYSHRGY-
+>E04141|Histatin 6|human (Homo sapiens)
++DSHAKRHHGYKRKFHEKHHSHRGYR-
+>E04142|Histatin 7|human (Homo sapiens)
++RKFHEKHHSHRGY-
+>E04143|Histatin 8|human (Homo sapiens)
++KFHEKHHSHRGY-
+>E04144|Histatin 9|human (Homo sapiens)
++RKFHEKHHSHRGYR-
+>E11422|Hylain 1|Annam treefrog (Hyla simplex)
++GILDAIKAFANALGz
+>E11423|Hylain 2|Annam treefrog (Hyla simplex)
++GILDPIKAFAKAAGz
+>E19988|Hylaranin-L1|broad-folded frog (Hylarana latouchii / Sylvirana latouchii)
++GVLSAFKNALPGIMKIIVz
+>E19989|Hylaranin-L2|broad-folded frog (Hylarana latouchii / Sylvirana latouchii)
++GVLSVIKNALPGIMRFIAz
+>E10029|Hylin a1|spotted tree frog (Hypsiboas albopunctatus)
++IFGAILPLALGALKNLIKz
+>E12000|Hymenochirin-1B|dwarf clawed frog (Hymenochirus boettgeri)
++IKLSPETKDNLKKVLKGAIKGAIAVAKMVz
+>E12001|Hymenochirin-2B|dwarf clawed frog (Hymenochirus boettgeri)
++LKIPGFVKDTLKKVAKGIFSAVAGAMTPS-
+>E12002|Hymenochirin-3B|dwarf clawed frog (Hymenochirus boettgeri)
++IKIPAVVKDTLKKVAKGVLSAVAGALTQ-
+>E12003|Hymenochirin-4B|dwarf clawed frog (Hymenochirus boettgeri)
++IKIPAFVKDTLKKVAKGVISAVAGALTQ-
+>E12004|Hymenochirin-5B|dwarf clawed frog (Hymenochirus boettgeri)
++IKIPPIVKDTLKKVAKGVLSTIAGALST-
+>E08019|Ixosin|sheep tick (Ixodes sinensis)
++QLKVDLWGTRSGIQPEQHSSGKSDVRRWRSRY-
+>E20799|Jindongenin-1a|Chinese torrent frog (Amolops jingdongensis)
++DSMGAVKLAKLLIDKMKCEVTKAC-
+>E20899|Jingdongin-1|Chinese torrent frog (Amolops jingdongensis)
++FLPLFLPKIICVITKKC-
+>E20087|Jingdongin-1-GN1|granular torrent frog (Amolops granulosus)
++FLPLFLPKIICEITKKC-
+>E23087|Jingdongin-1-MT1|Sichuan torrent frog (Amolops mantzorum)
++FLPLFLPKIICAITKKC-
+>E20933|Juruin|Amazonian yellow-banded pinktoe spider (Avicularia juruensis)
++FTCAISCDIKVNGKPCKGSGEKKCSGGWSCKFNVCVKV-
+>E19597|Kunitzin-RE|Schmacker's long-snout torrent frog (Odorrana schmackeri)
++AAKIILNPKFRCKAAFC-
+>E05406|Kurstakinin 1|bacterium (Bacillus thuringiensis kurstaki)
+bTGASHQQ-
+>E05407|Kurstakinin 2|bacterium (Bacillus thuringiensis kurstaki)
+bTGASHQQ-
+>E05408|Kurstakinin 3|bacterium (Bacillus thuringiensis kurstaki)
+bTGASHQQ-
+>E05409|Kurstakinin 4|bacterium (Bacillus thuringiensis kurstaki)
+bTGASHQQ-
+>E26077|Lactotransferrin precursor [265-284]|bovine (Bos taurus)
++DLIWKLLSKAQEKFGKNKSR-
+>E26080|Lactotransferrin precursor [265-284]|human (Homo sapiens)
++DAIWNLLRQAQEKFGKDKSP-
+>E26081|Lactotransferrin precursor [265-285]|human (Homo sapiens)
++DAIWNLLRQAQEKFGKDKSPK-
+>E26076|Lactotransferrin precursor [268-284]|bovine (Bos taurus)
++WKLLSKAQEKFGKNKSR-
+>E26078|Lactotransferrin precursor [268-284]|human (Homo sapiens)
++WNLLRQAQEKFGKDKSP-
+>E26079|Lactotransferrin precursor [268-285]|human (Homo sapiens)
++WNLLRQAQEKFGKDKSPK-
+>E20841|Lasiocepsin|broad-faced furrow-bee (Lasioglossum laticeps)
++GLPRKILCAIAKKKGKCKGPLKLVCKC-
+>E20855|Laterosporulin|bacterium (Brevibacillus sp., Strain GI-9)
++ACQCPDAISGWTHTDYQCHGLENKMYRHVYAICMNGTQVYCRTEWGSSC-
+>E07645|Lebocin-like anionic peptide 1|wax moth (Galleria mellonella)
++EADEPLWLYKGDNIERAPTTADHPILPSIIDDVKLDPNRRYA-
+>E00984|Liver cells growth factor|human (Homo sapiens)
++GHK-
+>E20469|Longicin|bush tick (Haemaphysalis longicornis)
++GFGCPLNQGACHNHCRSIGRRGGYCAGIIKQTCTCYR-
+>E07927|Lycocitin-1|wolf spider (Lycosa singoriensis / Aranea singoriensis)
++GKLQAFLAKMKEIAAQTLz
+>E07928|Lycocitin-2|wolf spider (Lycosa singoriensis / Aranea singoriensis)
++GRLQAFLAKMKEIAAQTLz
+>E07929|Lycocitin-3|wolf spider (Lycosa singoriensis / Aranea singoriensis)
++KIKWFKTMKSLAKFLAKEQMKKHLGE-
+>E23138|M-myrmeciitoxin-Mp1c|Australian jumper ant (Myrmecia pilosula)
++LARILGRVIPKVAKKLGPKVAKVLPKVMKEAIPMAVEMAKSQEEQQPQ-
+>E23139|M-myrmeciitoxin-Mp1e|Australian jumper ant (Myrmecia pilosula)
++RVIPKVAKKLGPKVAKVLPKVMKEAIPMAVEMAKSQEEQQPQ-
+>E20854|Macropin 1|solitary bee (Macropis fulvipes)
++GFGMALKLLKKVLz
+>E00709|Magainin 1|African clawed frog (Xenopus laevis), Peter's clawed frog (Xenopus petersii), Cape clawed frog (Xenopus gilli)
++GIGKFLHSAGKFGKAFVGEIMKS-
+>E00710|Magainin 2|African clawed frog (Xenopus laevis), Peter's clawed frog (Xenopus petersii), lake Victoria clawed frog (Xenopus victorianus), African clawed frog (Xenopus laevis sudanesis), Uganda clawed frog (Xenopus ruwenzoriensis)
++GIGKFLHSAKKFGKAFVGEIMNS-
+>E11588|Magainin-M1|Muller's clawed frog (Xenopus muelleri)
++GIGKFLHSAGKFGKAFIGEIMKS-
+>E11594|Magainin-MW1|Muller's clawed frog West (Xenopus muelleri)
++GWASKIGQTLGKLAKVGLKEFAQS-
+>E06019|Mastoparan-Like peptide 12a|hornet (Vespa magnifica)
++INWKGIAAMAKKLL-
+>E06020|Mastoparan-Like peptide 12b|hornet (Vespa magnifica)
++INWKGIAAMKKLL-
+>E10459|Mastoparan-OdVP1|solitary wasp (Orancistrocerus drewseni)
++GRILSFIKGLAEHLz
+>E20161|Mastoparan-S|giant African praying mantis (Sphodromantis viridis)
++LRLKSIVSYAKKVL-
+>E07844|Mastoparan-V1|Hong Kong wasp (Vespa bivolor)
++INMKASAAVAKKLL-
+>E07845|Mastoparan-V2|Hong Kong wasp (Vespa bivolor)
++INMKAVAAVAKKPL-
+>E12974|Mastoparan-VT2|social wasp (Vespa tropica)
++NLKAIAALAKKLLz
+>E12975|Mastoparan-VT3|social wasp (Vespa tropica)
++INLKAITALAKKLLz
+>E12976|Mastoparan-VT4|social wasp (Vespa tropica)
++INLKAIAPLAKKLLz
+>E12978|Mastoparan-VT6|social wasp (Vespa tropica)
++INLKAIAALVKKLLz
+>E12979|Mastoparan-VT7|social wasp (Vespa tropica)
++INLKAIAALVRNY-
+>E20421|Maximin 10/H15 1|Chinese red belly toad / giant fire-bellied toad (Bombina maxima), Hubei firebelly toad (Bombina microdeladigitora)
++GIGGALLSAGKSALKGLAKGLAEHFASz
+>E20422|Maximin 11/H11 1|Chinese red belly toad / giant fire-bellied toad (Bombina maxima)
++GIGTKIIGGLKTAVKGALKELASTYVNz
+>E20416|Maximin 2/H8 2|Chinese red belly toad / giant fire-bellied toad (Bombina maxima)
++ILGPVLGLVSNALGGLLKNIz
+>E20419|Maximin 3/H11 2|Chinese red belly toad / giant fire-bellied toad (Bombina maxima)
++ILGPVLGLVGSALGGLIKKIz
+>E20423|Maximin 3/H14 2|Chinese red belly toad / giant fire-bellied toad (Bombina maxima)
++ILGPVLGLVGEPLGGLIKKIz
+>E20424|Maximin 3/H15 2|Chinese red belly toad / giant fire-bellied toad (Bombina maxima), Hubei firebelly toad (Bombina microdeladigitora)
++ILGPVLGLVGNALGGLLKNLz
+>E20425|Maximin 3/H16 2|Chinese red belly toad / giant fire-bellied toad (Bombina maxima)
++ILGPVLSLVGNALGGLIKKIz
+>E20417|Maximin 3/H9 2|Chinese red belly toad / giant fire-bellied toad (Bombina maxima), Hubei firebelly toad (Bombina microdeladigitora)
++ILGPVLGLVSNALGGLIKKIz
+>E20411|Maximin 5/H4 type 2|Chinese red belly toad / giant fire-bellied toad (Bombina maxima)
++SIGAKILGGVKTFFKGALKELASTYLQ-
+>E20418|Maximin 6/H10 2|Chinese red belly toad / giant fire-bellied toad (Bombina maxima), Hubei firebelly toad (Bombina microdeladigitora)
++ILGPVLGLVSNALGGLLKNLz
+>E20420|Maximin 7/H13 2|Chinese red belly toad / giant fire-bellied toad (Bombina maxima)
++ILGPVIKTIGGVLGGLLKNLz
+>E20412|Maximin 7/H6 1|Chinese red belly toad / giant fire-bellied toad (Bombina maxima), Hubei firebelly toad (Bombina microdeladigitora)
++GIGAKILGGVKTALKGALKELASTYVNz
+>E20414|Maximin 7/H6 2|Chinese red belly toad / giant fire-bellied toad (Bombina maxima)
++ILGPVIGTIGNVLGGLLKNLz
+>E20413|Maximin 8/H7 1|Chinese red belly toad / giant fire-bellied toad (Bombina maxima)
++GIGTKILGGLKTAVKGALKELASTYVNz
+>E20415|Maximin 8/H7 2|Chinese red belly toad / giant fire-bellied toad (Bombina maxima)
++ILGPVIKTIGGVIGGLLKNLz
+>E20253|Medusin-AC|red-eyed leaf frog (Agalychnis callidryas)
++LLGMIPLAISAISALSKLz
+>E20255|Medusin-PD|Costa Rican frog / giant Mexican leaf frog (Pachymedusa dacnicolor)
++LLGMIPLAISAISSLSKLz
+>E20254|Medusin-PH|Brazilian orange-legged leaf frog (Phyllomedusa hypochondrialis)
++LLGMIPVAISAISALSKLz
+>E20591|Meucin-13|Lesser Asian scorpion (Mesobuthus eupeus)
++IFGAIAGLLKNIFz
+>E20592|Meucin-18|Lesser Asian scorpion (Mesobuthus eupeus)
++FFGHLFKLATKIIPSLFQ-
+>E20433|Mitogenic defensin|kidney bean / French bean (Phaseolus vulgaris)
++KTCENLADTFRGPCFATSNCDDHCKNKEHLLSGRCRDDFRCWCTRNC-
+>E19843|Modiocalin Mm1/Mk1|Northern horse mussel (Modiolus modiolus), Kuril mussel (Modiolus kurilensis)
++FWRKPRSRQRPRPKLRWWGYRRSSIz
+>E19838|Modiocalin-1|Philippine horse mussel (Modiolus philippinarum)
++LWGRPRWPRYPRWPRYPRWPTYPRYYIz
+>E19839|Modiocalin-2|Philippine horse mussel (Modiolus philippinarum)
++FWRKQRARPSRQPPRFRWWGNRRGSIz
+>E07653|Moricin-like peptide A|wax moth (Galleria mellonella)
++KVNVNAIKKGGKAIGKGFKVISAASTAHDVYEHIKNRRH-
+>E07654|Moricin-like peptide B|wax moth (Galleria mellonella)
++GKIPVKAIKKGGQIIGKALRGINIASTAHDIISQFKPKKKKNH-
+>E07655|Moricin-like peptide C1|wax moth (Galleria mellonella)
++KVPIGAIKKGGKIIKKGLGVIGAAGTAHEVYSHVKNRH-
+>E07656|Moricin-like peptide C2|wax moth (Galleria mellonella)
++KVPIGAIKKGGKIIKKGLGVLGAAGTAHEVYNHVRNRQ-
+>E07657|Moricin-like peptide C3|wax moth (Galleria mellonella)
++KVPIGAIKKGGKIIKKGLGVIGAAGTAHEVYSHVKNRQ-
+>E07658|Moricin-like peptide C4/5|wax moth (Galleria mellonella)
++KVPVGAIKKGGKAIKTGLGVVGAAGTAHEVYSHIRNRH-
+>E07659|Moricin-like peptide D|wax moth (Galleria mellonella)
++KGIGSALKKGGKIIKGGLGALGAIGTGQQVYEHVQNRQ-
+>E23161|Morintide mO1| horseradish tree (Moringa oleifera)
++QNCGRQAGNRACANQLCCSQYGFCGSTSEYCSRANGCQSNCRGz
+>E23162|Morintide mO2| horseradish tree (Moringa oleifera)
++QNCGRQAGNRACANGLCCSQYGFCGSTSEYCSRANGCQSNCRGz
+>E20349|Myeloid cathelicidin 1|horse (Equus caballus)
++KRFGRLAKSFLRMRILLPRRKILLAS-
+>E20350|Myeloid cathelicidin 2|horse (Equus caballus)
++KRRHWFPLSFQEFLEQLRRFRDQLPFP-
+>E20351|Myeloid cathelicidin 3|horse (Equus caballus)
++KRFHSVGSLIQRHQQMIRDKSEATRHGIRIITRPKLLLAS-
+>E19816|Myticalin A6|California mussel (Mytilus californianus)
++YSWPRLPRIPRLPRYPRYPRWPRHPTIYAz
+>E19817|Myticalin A7|California mussel (Mytilus californianus)
++YSWPRLPRIPRLPRYPRYPRYPRWPRHPTIYAz
+>E19820|Myticalin B1|mussel species complex (Mytilus galloprovincialis, Mytilus edulis, Mytilus trossolus, Mytilus chilensis)
++LRWTPTPSYPRYPTRSRGSRWSRz
+>E19821|Myticalin C1|mussel species complex (Mytilus galloprovincialis, Mytilus edulis, Mytilus trossolus, Mytilus chilensis)
++GRRRKYRYWRRGDRYWRRGVTIQERSKSSTLNTED-
+>E19822|Myticalin C2|mussel species complex (Mytilus galloprovincialis, Mytilus edulis, Mytilus trossolus, Mytilus chilensis)
++GRRRRRYRYWRRGLTIQGRSSTTITGD-
+>E19823|Myticalin C3|mussel species complex (Mytilus galloprovincialis, Mytilus edulis, Mytilus trossolus, Mytilus chilensis)
++RRRRRYRYWRRGLTIQGRSKSLPLNTGD-
+>E19825|Myticalin C5|mussel species complex (Mytilus galloprovincialis, Mytilus edulis, Mytilus trossolus, Mytilus chilensis)
++RRRRWPRRVTRRIRIPRYLTLNTH-
+>E19826|Myticalin C6|mussel species complex (Mytilus galloprovincialis, Mytilus edulis, Mytilus trossolus, Mytilus chilensis)
++RRRRRFRRVIRRIRLPKYLTINTE-
+>E19827|Myticalin C7|California mussel (Mytilus californianus)
++RRRRWRRIRRGISIRLPKFATLNTE-
+>E19828|Myticalin C8|mussel species complex (Mytilus galloprovincialis, Mytilus edulis, Mytilus trossolus, Mytilus chilensis)
++RRRRWRRIRRGISHRLPKFATLNSD-
+>E19829|Myticalin C9|mussel species complex (Mytilus galloprovincialis, Mytilus edulis, Mytilus trossolus, Mytilus chilensis)
++RRRRRYRYWRRGLTIQGRPKSLPLNTGD-
+>E19835|Myticalin D5|mussel species complex (Mytilus galloprovincialis, Mytilus edulis, Mytilus trossolus, Mytilus chilensis)
++WPRFPKPRKPTYPGPTYPGPTWPRPTWRRSATIDTEH-
+>E19836|Myticalin D6|mussel species complex (Mytilus galloprovincialis, Mytilus edulis, Mytilus trossolus, Mytilus chilensis)
++WRRRWRVRIPWPPRPRWPRSATINTDQ-
+>E19837|Myticalin D7|mussel species complex (Mytilus galloprovincialis, Mytilus edulis, Mytilus trossolus, Mytilus chilensis)
++WGRRWRIRIPSPPRPRPWPRPYPRPWPRSATINTDQ-
+>E23568|Myticin C [22-43]|Mediterranean mussel (Mytilus galloprovincialis)
++CSLYGCYLLHPGKICYCLHCSR-
+>E07810|Nefisin-1C|food-borne fungus (Neosartorya fischeri)
++SVCCSLPDPWKGFCCEAHCDKIGKPGGQCSDKNVCTCN-
+>E07812|Nefisin-1N|food-borne fungus (Neosartorya fischeri)
++FCHNSISCALGGDSTCNNVCVRQGNPHGGRCLPRDGCPGYDICACYPNN-
+>E07811|Nefisin-2C|food-borne fungus (Neosartorya fischeri)
++SICCSFPDPWGGLCCEDHCSYIGKPGGQCSDKSVCTCN-
+>E07813|Nefisin-2N|food-borne fungus (Neosartorya fischeri)
++LCHNSISCMMGGDSTCNNVCVRQGNPSGGRCLPRDGCPGYDICACYPNS-
+>E00154|Neurotensin|bovine (Bos taurus), common tree shrew (Tupaia belangeri), rat (Rattus norvegicus)
+JLYENKPRRPYIL-
+>E01355|Neutrophil antibiotic peptide NP-1|rat (Rattus norvegicus)
++VTCYCRRTRCGFRERLSGACGYRGRIYRLCCR-
+>E01356|Neutrophil antibiotic peptide NP-2|rat (Rattus norvegicus)
++VTCYCRSTRCGFRERLSGACGYRGRIYRLCCR-
+>E01354|Neutrophil antibiotic peptide NP-3|rat (Rattus norvegicus)
++CSCRTSSCRFGERLSGACRLNGRIYRLCC-
+>E01353|Neutrophil antibiotic peptide NP-4|rat (Rattus norvegicus)
++ACYCRIGACVSGERLTGACGLNGRIYRLCC-
+>E23082|Neutrophil defensin 1|chimpanzee (Pan troglodytes)
++ACYCRIPACLAGERRYGTCIYQGRLWAFCC-
+>E23395|Neutrophil defensin 4|chimpanzee (Pan troglodytes)
++VCSCRLVFCRRTELRVGNCLIGGVSFTYCCTRVD-
+>E00583|Neutrophil peptide 1|human (Homo sapiens)
++ACYCRIPACIAGERRYGTCIYQGRLWAFCC-
+>E00584|Neutrophil peptide 2|human (Homo sapiens)
++CYCRIPACIAGERRYGTCIYQGRLWAFCC-
+>E00585|Neutrophil peptide 3|human (Homo sapiens)
++DCYCRIPACIAGERRYGTCIYQGRLWAFCC-
+>E01250|Neutrophil peptide 4|human (Homo sapiens)
++VCSCRLVFCRRTELRVGNCLIGGVSFTYCCTRV-
+>E00160|Neutrophil peptide GNCP-1|Guinea pig (Cavia porcellus)
++RRCICTTRTCRFPYRRLGTCIFQNRVYTFCC-
+>E04136|Neutrophil peptide GNCP-2|Guinea pig (Cavia porcellus)
++RRCICTTRTCRFPYRRLGTCLFQNRVYTFCC-
+>E20670|Nigroain-B2|black-stripped frog (Rana nigrovittata)
++CVISAGWDHKVRCKLTGNC-
+>E206704|Nigroain-B3|black-stripped frog (Rana nigrovittata)
++CKIALPYHMRCRVLGRC-
+>E20671|Nigroain-B4|black-stripped frog (Rana nigrovittata)
++CVISAGWNHKIR-
+>E20672|Nigroain-B5|black-stripped frog (Rana nigrovittata)
++CKIALPYT-
+>E20673|Nigroain-C1|black-stripped frog (Rana nigrovittata)
++FKTWKRPPFQTSCSGIIKE-
+>E20675|Nigroain-C2|black-stripped frog (Rana nigrovittata)
++KTWKRPPFQTSCWGIIKE-
+>E20676|Nigroain-D1|black-stripped frog (Rana nigrovittata)
++CVHWQTNPARTSCIGP-
+>E20677|Nigroain-D2|black-stripped frog (Rana nigrovittata)
++CVHWQTNPARTSRIGP-
+>E20678|Nigroain-D3|black-stripped frog (Rana nigrovittata)
++CVHWQTNTARTSCIGP-
+>E20642|Nigrocin 2SCb|Schmacker's long-snout torrent frog (Odorrana schmackeri)
++GILSGILGAGKSLVCGLSGLC-
+>E10936|Nigrocin-2ISa|Ishikawa's frog (Odorrana ishikawae)
++GIFSTVFKAGKGIVCGLTGLC-
+>E10937|Nigrocin-2ISb|Ishikawa's frog (Odorrana ishikawae)
++GILGTVFKAGKGIVCGLTGLC-
+>E11620|Nigrocin-2ISc|Ishikawa's frog (Odorrana ishikawae)
++GILSTVFKAGKGIVCGLSGLC-
+>E19328|NK-lysin [71-100]|turbot (Scophthalmus maximus)
++EGVKSKLNIVCNEIGLLKSLCRKFVNSHIW-
+>E19918|Ocellatin-LB1|labyrinth frog (Leptodactylus labyrinthicus)
++GVVDILKGAAKDIAGHLASKVMz
+>E07820|Odorranain-NR|Yunnanfu frog (Rana grahami / Huia grahami)
++GLLSGILGAGKHIVCGLTGCAKA-
+>E08050|Oral alpha defensin ROAD1|rhesus macaque (Macaca mulatta)
++RRTCHCRSRCLRRESNSGSCNINGRIFSLCCR-
+>E08051|Oral alpha defensin ROAD2A/B|rhesus macaque (Macaca mulatta)
++RRTCHCRSRCLRRESNSGSCNINGRISSLCCR-
+>E20239|Oreochromicin-1|Nile tilapia (Oreochromis niloticus / Tilapia nilotica)
++FIHHIIGGLFSVGKHIHGLIHGH-
+>E20240|Oreochromicin-2|Nile tilapia (Oreochromis niloticus / Tilapia nilotica)
++FIHHIIGGLFSAGKAIHRLIRRRRR-
+>E20241|Oreochromicin-3|Nile tilapia (Oreochromis niloticus / Tilapia nilotica)
++IWDAIFHGAKHFLHRLVNPGGKDAVKDVQQKQ-
+>E10450|Osmin|solitary bee (Osmia rufa)
++GFLSALKKYLPIVLKHVz
+>E20449|Ostricacin-2|common ostrich (Struthio camelus)
++APGNKAECEREKGYCGFLKCSFPFVVSGKCSRFFFCCKNIW-
+>E09763|Palustrin 2VLa|Central American frog (Lithobates vaillanti)
++GLFDTIKNMATNVAGTMIDKLKCKVTGKC-
+>E12049|Palustrin-2CG1|Chungan torrent frog (Amolops chunganensis)
++GLWNTIKEAGKKFAINVLDKIRCGIAGGCKT-
+>E10928|Palustrin-2CHa|Chiricahua leopard frog (Lithobates chiricahuensis)
++GLLSTFKNLATNVAGTVIDTLKCKVTGGCRT-
+>E20090|Palustrin-2GN3|granular torrent frog (Amolops granulosus)
++GILDTLKQLGKAAAQSLLSKAACKLAKTC-
+>E10932|Palustrin-2ISa|Ishikawa's frog (Odorrana ishikawae), granular torrent frog (Amolops granulosus)
++GFMDTAKNVAKNVAVTLLDKLKCKITGGC-
+>E11617|Palustrin-2ISb|Ishikawa's frog (Odorrana ishikawae)
++GLWNSIKIAGKKLFVNVLDKIRCKVAGGCKTSPDVE-
+>E12844|Pantinin-1|emperor scorpion (Pandinus imperator)
++GILGKLWEGFKSIV-
+>E12845|Pantinin-2|emperor scorpion (Pandinus imperator)
++IFGAIWKGISSLL-
+>E12846|Pantinin-3|emperor scorpion (Pandinus imperator)
++FLSTIWNGIKSLL-
+>E20668|Papiliocin|Asian swallowtail butterfly (Papilio xuthus)
++RWKIFKKIEKVGRNVRDGIIKAGPAVAVVGQAATVVKz
+>E11597|Peptide CPF-MW1|Muller's clawed frog West (Xenopus muelleri)
++GLGSLLGKAFKFGLKTVGKMMGGAPREQ-
+>E10955|Peptide Hp1165|Asian forest scorpion (Heterometrus petersii), Malaysian black scorpion (Heterometrus spinifer)
++ILGEIWKGIKDILz
+>E09762|Peptide RC12|Central American frog (Lithobates vaillanti)
++RYCYAMWIPYPC-
+>E20438|Peptide RV-23|California red-legged frog (Rana draytonii) 
++RIGVLLARLPKLFSLFKLMGKKV-
+>E21366|Peptide TitsH|Brazilian yellow scorpion (Tityus stigmurus)
++ADMDFTGIAESIIKKIKETNAKPPA-
+>E07626|Peptide VR-23|Japanese brown frog / stream brown frog (Rana sakuraii)
++VIGSILGALASGLPTLISWIKNR-
+>E19632|Phylloseptin PS-Co|starry leaf frog (Phyllomedusa coelestis)
++FLSMIPKIAGGIASLVKNL-
+>E20664|Phylloseptin-1|Sauvage's leaf frog (Phyllomedusa sauvagei)
++FLSLIPHIVSGVASIAKHF-
+>E07794|Phylloseptin-L1|lemur leaf frog (Hylomantis lemur)
++LLGMIPLAISAISALSKL-
+>E20234|Phylloseptin-PBa|purple-sided leaf frog (Phyllomedusa baltea)
++FFSMIPKIAGGIASLVKNLz
+>E19330|Phylloseptin-PBa1|Burmeister's leaf frog (Phyllomedusa burmeisteri)
++FLSLIPHIASGIASLVKNFz
+>E19331|Phylloseptin-PBa2|Burmeister's leaf frog (Phyllomedusa burmeisteri)
++FLSLLPHIASGIASLVSKFz
+>E19332|Phylloseptin-PBa3|Burmeister's leaf frog (Phyllomedusa burmeisteri)
++FLSLIPHIVSGVAALANHLz
+>E19922|Phylloseptin-PHa|orange-legged leaf frog (Phyllomedusa hypochondrialis)
++FLSLIPAAISAVSALANHFz
+>E19923|Phylloseptin-PTa|orange-legged leaf frog (Phyllomedusa hypochondrialis)
++FLSLIPKIAGGIAALAKHLz
+>E07779|Pleurain-A1|Yunnan pond frog (Rana pleuraden)
++SIITMTKEAKLPQLWKQIACRLYNTC-
+>E20277|Pleurain-a1-thel|Kwangsi warty tree frog (Theloderma kwangsiensis)
++RILTMTKRVKMPQLYKQIVCRLFKTC-
+>E07780|Pleurain-A2|Yunnan pond frog (Rana pleuraden)
++SIITMTKEAKLPQSWKQIACRLYNTC-
+>E07781|Pleurain-A3|Yunnan pond frog (Rana pleuraden)
++SIITMTREAKLPQLWKQIACRLYNTC-
+>E07782|Pleurain-A4|Yunnan pond frog (Rana pleuraden)
++SIITTTKEAKLPQLWKQIACRLYNTC-
+>E23060|Ponericin-W-like 32.2 peptide|Chinese swimming scorpion (Lychas mucronatus)
++IFGSLFSLGSKLLPTVFKLFSRKKQ-
+>E01243|Porcine neutrophils peptide, Protegrin 1|pig (Sus scrofa)
++RGGRLCYCRRRFCVCVGRz
+>E01244|Porcine neutrophils peptide, Protegrin 2|pig (Sus scrofa)
++RGGRLCYCRRRFCICVz
+>E01245|Porcine neutrophils peptide, Protegrin 3|pig (Sus scrofa)
++RGGGLCYCRRRFCVCVGRz
+>E07643|Proline-rich antimicrobial peptide 1|wax moth (Galleria mellonella)
++DIQIPGIKKPTHRDIIIPNWNPNVRTQPWQRFGGNKS-
+>E10621|Psacotheasin|yellow-spotted long-horned beetle (Psacothea hilaris)
++CIAKGNGCQPSGVQGNCCSGHCHKEPGWVAGYCKz
+>E23142|Putative defensin-like peptide 119|mouse-ear cress (Arabidopsis thaliana)
++QEMCRDLLMRAKNCDDSTCATLCKQKWKGNGSCFPNVYRKSCLCTFPCKT-
+>E23143|Putative defensin-like peptide 12|mouse-ear cress (Arabidopsis thaliana)
++QMNDCDCDHDHRCGEWEDESHGNCKQHHLRVVCTCTLDCLDISSTSNA-
+>E23144|Putative defensin-like peptide 121|mouse-ear cress (Arabidopsis thaliana)
++QETCHDLIMKRDCDEATCVNMCQQKWKGSGGSCFQNFNVMSCICNFPCQV-
+>E23145|Putative defensin-like peptide 128|mouse-ear cress (Arabidopsis thaliana)
++QHICHQILLNNNCDGATCTSLCDKQLQGTGQCYKTVDKRFICLCNYLCRT-
+>E23146|Putative defensin-like peptide 279|mouse-ear cress (Arabidopsis thaliana)
++QESKKGILLKPKTCNTNADCAKFCKGPIQNCLYHTCACVPGNPHCC-
+>E23147|Putative defensin-like peptide 312|mouse-ear cress (Arabidopsis thaliana)
++QSPLSQSSHEFTVVSPYLSCFGIEECLFYLYFKLYDLCVILLCTWFDLSE-
+>E23148|Putative defensin-like peptide 33|mouse-ear cress (Arabidopsis thaliana)
++QNPRGRKCEDPNGVDQKAKCYIYCNEQGFLGGSCQGYTNHYMCECYVG-
+>E09783|Ranatuerin 2ONa|relict leopard frog (Lithobates onca)
++GLMDTVKNAAKNLAGQMLDKLKCKITGSCz
+>E10310|Ranatuerin 2TOb|Tago frog (Rana tagoi)
++GLLNVIKDTAQNLFAAALEKLKCKVTKCN-
+>E09759|Ranatuerin-1VLa|Central American frog (Lithobates vaillanti)
++GIMDTIKGAAKDVAAQLLDKLKCKITKC-
+>E09760|Ranatuerin-1VLb|Central American frog (Lithobates vaillanti)
++GIMDTIKGAAKDLAGQLLDKLKCKITKC-
+>E09761|Ranatuerin-1VLc|Central American frog (Lithobates vaillanti)
++GIMDTIKGAAKDLAGELLDKLKCKITKC-
+>E10925|Ranatuerin-2CHb|Chiricahua leopard frog (Lithobates chiricahuensis)
++GLMDTIKGVAKNVAASLLEKLKCKVTGC-
+>E10926|Ranatuerin-2CHc|Chiricahua leopard frog (Lithobates chiricahuensis)
++GLMDTVKNVAKNLAGQLLDRLKCKITGC-
+>E20453|Ranatuerin-2Ma|mountain yellow-legged frog (Rana muscosa)
++GLLSSFKGVAKGVAKDLAGKLLEKLKCKITGC-
+>E20454|Ranatuerin-2Mb|mountain yellow-legged frog (Rana muscosa)
++GIMDSVKGVAKNLAAKLLEKLKCKITGC-
+>E04194|Ranatuerin-2TRa|Tarahumara frog (Rana tamahumarae)
++GIMDSIKGAAKEIAGHLLDNLKCKITGC-
+>E04195|Ranatuerin-2TRb|Tarahumara frog (Rana tamahumarae)
++GILDTLKNVAKNVAAGLLDNIKCKITGC-
+>E04196|Ranatuerin-2TRc|Tarahumara frog (Rana tamahumarae)
++GIFDTIKNVAKNMAAGLLDNIKCKITGC-
+>E20987|Rondonin|spider (Acanthoscurria rondoniae)
++IIIQYEGHKH-
+>E07816|Rorsin-2|fungus (Rhizopus oryzae)
++TPHQKTCHPLKEAHANAVCKEYCGSVGYLLGECGKEGICVCEKRQLNE-
+>E20911|Rugosin LK-1|Kuhl's Creek frog (Limnonectes kuhlii)
++SIRDKIKTMAIDLAKSAGTGVLKTLICKLDKSC-
+>E20912|Rugosin LK-2|Kuhl's Creek frog (Limnonectes kuhlii)
++SIRDKGKTIAIDLAKSAGTGVLKTLMCKLDKSC-
+>E20018|Scapularisin-2|black-legged tick / deer tick (Ixodes scapularis)
++GFGCPFNQGACHGHCRSIRRGGGYCSGFAKQTCTCYRK-
+>E20019|Scapularisin-3|black-legged tick / deer tick (Ixodes scapularis)
++AFGCPFDQGTCHSHCRSIRRRGERCSGFAKRTCTCYQK-
+>E20022|Scapularisin-6|black-legged tick / deer tick (Ixodes scapularis)
++GFGCPFDQGACHRHCQSIGRRGGYCAGFIKQTCTCYHN-
+>E04461|Scarabaecin-36|coconut rhinoceros beetle (Oryctes rhinoceros)
++ELPKLPDDKVLIRSRSNCPKGKVWNGFDCKSPFAFS-
+>E04460|Scarabaecin-38|coconut rhinoceros beetle (Oryctes rhinoceros)
++DAELPKLPDDKVLIRSRSNCPKGKVWNGFDCKSPFAFS-
+>E20252|Senegalin|Senegal running frog (Kassina senegalensis)
++FLPFLIPALTSLISSLz
+>E20263|Shuchin 3|Sichuan frog (Rana shuchinae)
++KAYSMPRCKGGFRAVMCWLz
+>E20264|Shuchin 4|Sichuan frog (Rana shuchinae)
++KAYSTPRCKGLFRALMCWLz
+>E20265|Shuchin 5|Sichuan frog (Rana shuchinae)
++KAYSTPRCKYLFRAVLCWLz
+>E20276|Snakin-Z|Chinese jujube (Zizyphus jujuba)
++CARLNCVPKGTSGNTETCPCYASLHSCRKYG-
+>E14345|Stigmurin|Brazilian yellow scorpion (Tityus stigmurus)
++FFSLIPSLVGGLISAFKz
+>E01214|Tachykinin-related peptide I, Uru-TK I|echiuroid worm (Urechis unicinctus)
++LRQSQFVGSRz
+>E01215|Tachykinin-related peptide II, Uru-TK II|echiuroid worm (Urechis unicinctus)
++AAGMGFFGARz
+>E05535|Temporin 1SPa|mink frog (Rana septentrionalis)
++FLSAITSILGKFFz
+>E19907|Temporin GHa|Gunther's frog (Hylarana guentheri)
++FLQHIIGALGHLFz
+>E19908|Temporin GHb|Gunther's frog (Hylarana guentheri)
++FIHHIIGALGHLFz
+>E19909|Temporin GHc|Gunther's frog (Hylarana guentheri)
++FLQHIIGALTHIFz
+>E19910|Temporin GHd|Gunther's frog (Hylarana guentheri)
++FLQHIIGALSHFFz
+>E10946|Temporin HN1|odor frog (Odorrana hainanensis)
++AILTTLANWARKFLz
+>E10947|Temporin HN2|odor frog (Odorrana hainanensis)
++NILNTIINLAKKILz
+>E20842|Temporin La|American bullfrog (Rana catesbeiana / Lithobates catesbeianus)
++LLRHVVKILEKYLz
+>E20908|Temporin LK-1|Kuhl's Creek frog (Limnonectes kuhlii)
++FFPLLFGALSSMMPKLFz
+>E09782|Temporin ONa|relict leopard frog (Lithobates onca)
++FLPTFGKILSGLFz
+>E10961|Temporin SHf|Sahara frog (Pelophylax saharica / Rana saharica)
++FFFLSRIFz
+>E10311|Temporin TOa|Tago frog (Rana tagoi)
++FLPILGKLLSGFLz
+>E10312|Temporin TOb|Tago frog (Rana tagoi)
++FLPILGKLLSGLLz
+>E20445|Temporin-1DRa|California red-legged frog (Rana draytonii) 
++HFLGTLVNLAKKILz
+>E20269|Temporin-1GY|black-spotted frog (Pelophylax nigromaculatus)
++VIPIVSGLLSSLLz
+>E07634|Temporin-1Oc1|Japanese mountain brown frog (Rana ornativentris)
++FLPLLASLFSRLFGK-
+>E20309|Temporin-1RNa|Japanese/Korean pond frog (Rana nigromaculata)
++ILPIRSLIKKLLz
+>E20310|Temporin-1RNb|Japanese/Korean pond frog (Rana nigromaculata)
++FLPLKKLRFGLLz
+>E05996|Temporin-1Vc|carpenter frog (Rana virgatipes)
++FLPLVTMLLGKLFz
+>E10684|Temporin-ALd|rufous-spotted torrent frog (Amolops loloensis)
++FLPIAGKLLSGLSGLLz
+>E10685|Temporin-ALe|rufous-spotted torrent frog (Amolops loloensis)
++FFPIVGKLLFGLSGLLz
+>E10686|Temporin-ALf|rufous-spotted torrent frog (Amolops loloensis)
++FFPIVGKLLFSLSGLLz
+>E10687|Temporin-AL|rufous-spotted torrent frog (Amolops loloensis)
++FFPIVGKLLFGLFGLSz
+>E10688|Temporin-ALh|rufous-spotted torrent frog (Amolops loloensis)
++FLPIVGKLLSGLSGLSz
+>E10689|Temporin-ALi|rufous-spotted torrent frog (Amolops loloensis), Chinese torrent frog (Amolops jingdongensis)
++FFPIVGKLLSGLLz
+>E10690|Temporin-ALj|rufous-spotted torrent frog (Amolops loloensis), Chinese torrent frog (Amolops jingdongensis)
++FFPIVGKLLFGLLz
+>E10691|Temporin-ALk|rufous-spotted torrent frog (Amolops loloensis)
++FFPIVGKLLSz
+>E12043|Temporin-CG1|Chungan torrent frog (Amolops chunganensis)
++FLPFVGNLLKGLLz
+>E12044|Temporin-CG2|Chungan torrent frog (Amolops chunganensis)
++FFPIVGKLLSGLFz
+>E12045|Temporin-CG3|Chungan torrent frog (Amolops chunganensis)
++FLPIVGKLLSGLFz
+>E10117|Temporin-CPa|Gopher Frog (Lithobates capito)
++IPPFIKKVLTTVFz
+>E10118|Temporin-CPb|Gopher Frog (Lithobates capito)
++FLPIVGRLISGILz
+>E12005|Temporin-HN2|odor frog (Odorrana hainanensis)
++NILNTIINLAKKILz
+>E20071|Temporin-LF1|Lifan torrent frog (Amolops lifanensis)
++FLPFVGKLLSGLLGK-
+>E20278|Temporin-SN2|fine-spined frog (Hylarana spinulosa)
++FITGLIGGLMKALz
+>E20279|Temporin-SN3|fine-spined frog (Hylarana spinulosa)
++FISGLIGGLMKALz
+>E20280|Temporin-SN4|fine-spined frog (Hylarana spinulosa)
++FITGLISGLMKALz FITGLISGLMKALGK
+>E20061|Temporin-TP1|Taipei frog (Hylarana taipehensis)
++FLPVLGKVIKLVGGLLGK-
+>E09611|theta-Defensin A|olive baboon (Papio anubis), hamadryas baboon (Papio hamadryas)
++RCVCTRGFC-
+>E09612|theta-Defensin B|olive baboon (Papio anubis)
++RCVCRRGVC-
+>E09613|theta-Defensin C|olive baboon (Papio anubis)
++RCICLLGIC-
+>E09614|theta-Defensin D|olive baboon (Papio anubis)
++RCFCRRGVC-
+>E20156|Thymosin beta|Pacific oyster (Crassostrea gigas)
+bSDKPDVKEVESFDKSKLKKVETQEKNPLPTKETIEQEKKGz
+>E10090|Tigerinin-RC1|crab-eating frog (Fejervarya cancrivora)
++RVCSAIPLPICH-
+>E10091|Tigerinin-RC2|crab-eating frog (Fejervarya cancrivora)
++RVCMAIPLPICH-
+>E04616|Tolybyssidin A|cyanobacterium / blue-green algae (Tolypothrix byssoidea)
+FAVTTVVPRLTII
+>E04617|Tolybyssidin B|cyanobacterium / blue-green algae (Tolypothrix byssoidea)
+VTITVVVFVARYM
+>E03972|Tracheal antimicrobial peptide [N20]|bovine (Bos taurus)
++NPVSCVRNKGICVPIRCPGNMKQIGTCVGRAVKCCRKK-
+>E01358|Tracheal antimicrobial peptide [S20]|bovine (Bos taurus)
++NPVSCVRNKGICVPIRCPGSMKQIGTCVGRAVKCCRKK-
+>E11011|Tunicyclin B|China plant (Psammosilene tunicoides)
+PSWLVGS
+>E11012|Tunicyclin C|China plant (Psammosilene tunicoides)
+PSWLAGT
+>E11013|Tunicyclin D|China plant (Psammosilene tunicoides)
+PPWHGVNI
+>E22954|U1-poneritoxin-Na1a|ant (Pachycondyla apicalis)
++FLGGLMKIGAKLLPSVIGLFKKKQ-
+>E22955|U1-poneritoxin-Na1b|ant (Pachycondyla apicalis)
++FLGALLKIGAKLLPSVVGLFKKKQQ-
+>E22961|U1-poneritoxin-Na3a|ant (Pachycondyla apicalis)
++GFKDWMKKAGSWLKKKGPALIKAAMQE-
+>E22956|U1-poneritoxin-Na3b|ant (Pachycondyla apicalis)
++GFMDLIKKAGGWLKKKGPALIKAALQE-
+>E22953|U1-poneritoxin-Ni1b|ant (Ponera inversa)
++FLWGALIKGAGKLISRVVGSLKKKKQ-
+>E22952|U1-poneritoxin-Ni3a|ant (Ponera inversa)
++GWRDWLNKGKEWLKKKGPGMVKAALAAATQ-
+>E22951|U1-poneritoxin-Ni3b|ant (Ponera inversa)
++GWRDWLKKGKEWIKAKGPGIVKAALKAAVQ-
+>E22959|U1-poneritoxin-Ni3d|ant (Ponera inversa)
++GWKDWLKTAGGWLKKKGPSILKAVVGAATQ-
+>E00136|Vasoactive intestinal peptide, VIP|pig (Sus scrofa), bovine (Bos taurus), human (Homo sapiens), sheep (Ovis aries), dog (Canis familiaris), goat (Carpa hircus)
++HSDAVFTDNYTRLRKQMAVKKYLNSILNz
+>E10460|Venom peptide OdVP2|solitary wasp (Orancistrocerus drewseni)
++ILGIITSLLKSL-
+>E10461|Venom peptide OdVP2L|solitary wasp (Orancistrocerus drewseni)
++EPILGIITSLLKSL-
+>E06016|Vespid chemotactic peptide 5e|hornet (Vespa magnifica)
++FLPIIAKLLGGLL-
+>E06017|Vespid chemotactic peptide 5f|hornet (Vespa magnifica)
++FLPIPRPILLGLL-
+>E06018|Vespid chemotactic peptide 5g|hornet (Vespa magnifica)
++FLIIRRPIVLGLL-
+>E20848|Xenopsin-precursor fragment XPF-AN2|Andre's clawed frog (Xenopus andrei)
++GWVSKIGQTLGKMAKVGLQELIQPK-
