@@ -1,14 +1,14 @@
 # CAFPdb
-The consensus antifungal peptide database.
+A consolidated database of antifungal peptides.
 
 ## Stages of Analysis
 
-* 00 Data Recolection
+* 00 Data Collection
 * 01 Database Properties
 * 02 Similarity Comparison against SwissProt Database
 * 03 Clustering and Analysis 
 
-The consensus antifungal peptide database is full with 6,196 unique sequences.
+The consensus antifungal peptide database contains 6,196 unique sequences.
 
 ## 00 Data Recolection and clean from the Databases
 
@@ -32,11 +32,11 @@ The consensus antifungal peptide database is full with 6,196 unique sequences.
 
 ## 01 Database Properties
 
-Analysis perform with the python libraries pandas, altair, Biopython, and Propy3 (https://pypi.org/project/propy3)
+Analysis performed with the Python libraries Pandas, Altair, Biopython, and Propy3 (https://pypi.org/project/propy3)
 
-## 02 Similarity Comparison against SwissProt Database
+## 02 Similarity Comparison against Swiss-Prot Database
 
-The similarity analyzes eas performed with Diamond to find the similarity against SwissProt Database 2021.4
+The similarity analyzes was performed with Diamond to find the similarity against SwissProt Database 2021.4
 
 ## 03 Clustering and Analysis 
 
@@ -44,18 +44,18 @@ The analysis was performed with MMseqs2.
 
 ## Figures description
 
-**Figure 1. Antifungal peptides entries by database.** From each database were the antifungal peptides identified and fasta format applied conserving the original ID. 
+**Figure 1. Antifungal peptides entries in each database.** Fasta formatted peptides from each database were counted by keeping original IDs. 
 
-**Figure 2. Distribution the peptide length.** From each database the peptide lenght was evaluated, the minimun peptide contain 1 aminoacids and the maximum is the 255 aminoacids, while the mean are less the 30 residues with the exception of the plant databases with 57.5, and 40.0, for PAMP, and PPDB, respectively. 
+**Figure 2. Peptide length distribution.** FPeptide length was determined for each individual database. The minimum length is 1 amino acid and the maximum length is of 255 amino acids, with an average value of 30 residues. 
 
-**Figure 3. Antifungal peptides aminoacids composition  by database.** From each database the aminoacod composition is presented, the red lines represent the fraction composition from ExPASy to the regular proteins. The residues with a over representation are Asparate and Glutamate, while the carged positive are Lysine, and Histidine, residues with particular properties are Cystein, Proline, and Glycine, and the only polar residues are Asparragine, and Methionine, finally, the only hydrophobic residue is Trypthophane. For other hands, the aminoacids with low fraction are Glutamine, Alanine and Phenylalanine.
+**Figure 3. Amino acid composition of antifungal peptides from each individual database.** For each individual database the amino acid composition is presented, with red lines representing the average composition in ExPASy for regular proteins. Overrepresented amino acids in different databases include negatively charged Aspartate and Glutamate, positively charged Lysine, in addition to Histidine Cysteine, Proline, and Glycine, and polar residues Asparagine and Methionine. Tryptophane is the only hydrophobic residue that is present in a higher proportion. Amino acids with low representation include Glutamine, Alanine and Phenylalanine.
 
-**Figure 4. Antifungal sequences comparison with Swiss Protein Database similarity.** For the antifungal peptides from the six database with more entries were alignment with Swiss Prot database witd Diamond software and ultra-sensisitive parameters. The first query results was maintain with a total of 6,724 annotations for all databases with a maximun of 1790, and the minimun of 631. Interesting, the redundancy between the database similarity is low, only 144 protein for all annotations, these results reforced the requirement of consesus antifungal database. 
+**Figure 4. Sequence similarity comparison of antifungal peptides with Swiss Protein Database.** Antifungal peptides from the six database with more entries were aligned with Swiss Prot database using Diamond software with ultra-sensitive parameters. A total of 6,724 annotations were obtained from the query for all databases, with a maximum of 1790, and the minimum of 631. Interesting, the redundancy between the databases is low (144 protein for all annotations), providing support to the consolidation analysis. 
 
-**Figure 5. Antifungal peptides from organism source.** The data is cut-off of 30 more abundant by Database organism source, the organism are from the metazoa (50), viridiplantae (45), and fungi (1), the most abundant sources are *H.sapiens*, A*.thaliana*, and *Odorrana sp.* 
+**Figure 5. Source organism of the antifungal peptides.** The analysis was carried out with a cut-off of 30 more abundant source organisms in the Database, including organisms from the Metazoa (50), Viridiplantae (45) and Fungi (1). The most abundant sources are *H. sapiens*, *A .thaliana* and *Odorrana sp.* 
 
-**Figure 6.** **Antifungal peptides from gene-related.** The two groups of gene more abundant are the Antimicrobila peptides (AMP) and the Defensins family, both with wide antibacterial, fungicide and antiviral activities. 
+**Figure 6. Source protein of antifungal peptides.** The two more abundant groups of source proteins are the Antimicrobial peptides (AMP) and the Defensins families, both with a wide antibacterial, antifungal and antiviral activities. 
 
-**Figure 7. Non redundant antifungal peptides databases.** Redundant remotion and clustering was performed with MMseqs2, with a maximum of 6,196 unique peptides, and down the groups at 3,294 sequences wit high divergence (<30% identity).
+**Figure 7. Non-redundant antifungal peptide database.** Redundancy removal and clustering were performed with MMseqs2, yielding a maximum of 6,196 unique peptides.  A total of 3,294 sequences wit high divergence (<30% identity) were eliminated.
 
-**Figure 8. Consensus Antifungal Peptides Databases Clustering.** The clustering distribution for sizes are showed in distint level of identity cut-off (from 1.0 at 0.3).
+**Figure 8. Clustering of antifungal peptides from all the databases.** Clusters distribution in terms of the sizes at different levels of identity, with cut-off values ranging from 1.0 at 0.3.
