@@ -128,4 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-tmp/
+03_MMseqs2_Clustering/tmp
